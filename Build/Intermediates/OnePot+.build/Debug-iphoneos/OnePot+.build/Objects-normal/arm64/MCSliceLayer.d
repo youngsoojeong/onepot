@@ -1,5 +1,4 @@
-dependencies: \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCSliceLayer.m \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCSliceLayer.h \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCUtil.h \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCNewCustomLayer.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/MCSliceLayer.m \
+  /Users/dudtnwjd/onepot/OnePot+/MCSliceLayer.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCUtil.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCNewCustomLayer.h

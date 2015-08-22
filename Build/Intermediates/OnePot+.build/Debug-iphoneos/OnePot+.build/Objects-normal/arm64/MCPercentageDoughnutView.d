@@ -1,9 +1,8 @@
-dependencies: \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCPercentageDoughnutView.m \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCPercentageDoughnutView.h \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCCore.h \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCUtil.h \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCNewCustomLayer.h \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCSliceLayer.h \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCNewCustomLayeredView.h \
-  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCNewCustomLayeredView+MCCustomLayeredViewSubclass.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/MCPercentageDoughnutView.m \
+  /Users/dudtnwjd/onepot/OnePot+/MCPercentageDoughnutView.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCCore.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCUtil.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCNewCustomLayer.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCSliceLayer.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCNewCustomLayeredView.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCNewCustomLayeredView+MCCustomLayeredViewSubclass.h

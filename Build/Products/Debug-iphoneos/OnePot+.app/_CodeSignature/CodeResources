@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		X3ZjWkzXNWXwAa13Y3zh6XS+32I=
+		4HMTm8D9YfMbIPPFkzEAEPXUeWk=
 		</data>
 		<key>Base.lproj/Icon</key>
 		<dict>
@@ -77,7 +77,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gbMrK+pocBHHjij2TSaqVSBk+Is=
+			Mx61Ny/hARQwOeyuai5E9KA4PT0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -113,7 +113,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+EkToFcZ17sdGL9QafmD/kSpKBg=
+			CZ+DFtJ27eC5GrH9CCtg0F7FQ+E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -122,7 +122,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HUbJqJEaucv2udOKxGDjF88x9y4=
+			EZgZmgMei6hvagFAqRPIUCtFbUM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -131,14 +131,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GhkBEMLe9u0F2YbvGav/jzxYoe0=
+			/0T7NvX5YZg/4vIBy1jbadBaBlo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>FeedViewController.nib</key>
 		<data>
-		l7zN46jUjPu8bQA+eiZ0Bsaj2d8=
+		GL0O4bs4Q+dzR+76viKzCh+0vzs=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -150,15 +150,15 @@
 		</data>
 		<key>LeftMenuViewController.nib</key>
 		<data>
-		gRsnj/cMw1WkpI6g2PrDpAopNpg=
+		VnLfmDzVoxi3xKUMUq7/3Bi7dL4=
 		</data>
 		<key>LoginViewController.nib</key>
 		<data>
-		vKZ53MHPnWpScMv4DG9CD3RHJLc=
+		7SLlUazr+5weMpnN09tajORRsXA=
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		6RfbftW3wrnXf2CYa1AeDF+qjM0=
+		KA1csGhrJxhRmFVM/PNjcmYhsbg=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -166,19 +166,19 @@
 		</data>
 		<key>ProfileViewController.nib</key>
 		<data>
-		51TUwWz/NtnK3AJ8puVdXYAoFpQ=
+		fOr2gxBtEthyxKzllfBnZOpLaAA=
 		</data>
 		<key>RecipeViewController.nib</key>
 		<data>
-		SEb8p7HrF8KmbIwEUmIPXKwI6J8=
+		FFxHRPaH7lL4IHZw7piTBPemypE=
 		</data>
 		<key>SettingViewController.nib</key>
 		<data>
-		md5fUSr/vI+DPuE1q53dq09I0kw=
+		0KGTXR1AlxPI1txtkDBYMcHeXHs=
 		</data>
 		<key>SimpleTableCell.nib</key>
 		<data>
-		85kjjC2Mkt0397Tx0MScvdV5EpY=
+		flCTyvdsPHCh+DNfBL5eIbS/uko=
 		</data>
 		<key>TGCameraViewController.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
@@ -222,15 +222,15 @@
 		</data>
 		<key>TabBarViewControllerViewController.nib</key>
 		<data>
-		uO6I0WSns3AMshGLltvcXE5wRos=
+		Ne7VjixwP7GR/dD85SxVWoHiAoU=
 		</data>
 		<key>TabContentViewController.nib</key>
 		<data>
-		3UUf+mrgYjo/xwGKQAcbGw5MrJw=
+		mXS1tppXT6UcZKtywy5mv8+9QGI=
 		</data>
 		<key>editViewController.nib</key>
 		<data>
-		NU3kl6yBh2IQMZSPw33PNy+5pys=
+		0A9A29/OHhhX3VFHSOQ+iEkSUNY=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -238,19 +238,19 @@
 		</data>
 		<key>feedcellTableViewCell.nib</key>
 		<data>
-		aBdedO9eQsyFU3KXdbmtcuTueKM=
+		YBwAC+TGxbFIaH4gxT56OjQ83DQ=
 		</data>
 		<key>postViewController.nib</key>
 		<data>
-		IoeBDaGzl3z3fLWS0rkDKVTCImI=
+		Z/PRJWhF5wOx7rGaj6Aw+Sa+nyQ=
 		</data>
 		<key>signViewController.nib</key>
 		<data>
-		FnhJxn+8pKMN+e1SSAflB03DdGs=
+		JTaRqJ3mpQY/cQoNgkIdygJ/ARc=
 		</data>
 		<key>signinViewController.nib</key>
 		<data>
-		qWoPv63bEEKxEuJCgaJOS+zqvrg=
+		iz6UXgmPyAeLvJKInN5l289IqWA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -313,7 +313,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		X3ZjWkzXNWXwAa13Y3zh6XS+32I=
+		4HMTm8D9YfMbIPPFkzEAEPXUeWk=
 		</data>
 		<key>Base.lproj/Icon</key>
 		<dict>
@@ -328,7 +328,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gbMrK+pocBHHjij2TSaqVSBk+Is=
+			Mx61Ny/hARQwOeyuai5E9KA4PT0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -364,7 +364,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+EkToFcZ17sdGL9QafmD/kSpKBg=
+			CZ+DFtJ27eC5GrH9CCtg0F7FQ+E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -373,7 +373,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HUbJqJEaucv2udOKxGDjF88x9y4=
+			EZgZmgMei6hvagFAqRPIUCtFbUM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -382,14 +382,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GhkBEMLe9u0F2YbvGav/jzxYoe0=
+			/0T7NvX5YZg/4vIBy1jbadBaBlo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>FeedViewController.nib</key>
 		<data>
-		l7zN46jUjPu8bQA+eiZ0Bsaj2d8=
+		GL0O4bs4Q+dzR+76viKzCh+0vzs=
 		</data>
 		<key>IntroViewController.nib</key>
 		<data>
@@ -397,31 +397,31 @@
 		</data>
 		<key>LeftMenuViewController.nib</key>
 		<data>
-		gRsnj/cMw1WkpI6g2PrDpAopNpg=
+		VnLfmDzVoxi3xKUMUq7/3Bi7dL4=
 		</data>
 		<key>LoginViewController.nib</key>
 		<data>
-		vKZ53MHPnWpScMv4DG9CD3RHJLc=
+		7SLlUazr+5weMpnN09tajORRsXA=
 		</data>
 		<key>MainViewController.nib</key>
 		<data>
-		6RfbftW3wrnXf2CYa1AeDF+qjM0=
+		KA1csGhrJxhRmFVM/PNjcmYhsbg=
 		</data>
 		<key>ProfileViewController.nib</key>
 		<data>
-		51TUwWz/NtnK3AJ8puVdXYAoFpQ=
+		fOr2gxBtEthyxKzllfBnZOpLaAA=
 		</data>
 		<key>RecipeViewController.nib</key>
 		<data>
-		SEb8p7HrF8KmbIwEUmIPXKwI6J8=
+		FFxHRPaH7lL4IHZw7piTBPemypE=
 		</data>
 		<key>SettingViewController.nib</key>
 		<data>
-		md5fUSr/vI+DPuE1q53dq09I0kw=
+		0KGTXR1AlxPI1txtkDBYMcHeXHs=
 		</data>
 		<key>SimpleTableCell.nib</key>
 		<data>
-		85kjjC2Mkt0397Tx0MScvdV5EpY=
+		flCTyvdsPHCh+DNfBL5eIbS/uko=
 		</data>
 		<key>TGCameraViewController.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
@@ -465,15 +465,15 @@
 		</data>
 		<key>TabBarViewControllerViewController.nib</key>
 		<data>
-		uO6I0WSns3AMshGLltvcXE5wRos=
+		Ne7VjixwP7GR/dD85SxVWoHiAoU=
 		</data>
 		<key>TabContentViewController.nib</key>
 		<data>
-		3UUf+mrgYjo/xwGKQAcbGw5MrJw=
+		mXS1tppXT6UcZKtywy5mv8+9QGI=
 		</data>
 		<key>editViewController.nib</key>
 		<data>
-		NU3kl6yBh2IQMZSPw33PNy+5pys=
+		0A9A29/OHhhX3VFHSOQ+iEkSUNY=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -481,19 +481,19 @@
 		</data>
 		<key>feedcellTableViewCell.nib</key>
 		<data>
-		aBdedO9eQsyFU3KXdbmtcuTueKM=
+		YBwAC+TGxbFIaH4gxT56OjQ83DQ=
 		</data>
 		<key>postViewController.nib</key>
 		<data>
-		IoeBDaGzl3z3fLWS0rkDKVTCImI=
+		Z/PRJWhF5wOx7rGaj6Aw+Sa+nyQ=
 		</data>
 		<key>signViewController.nib</key>
 		<data>
-		FnhJxn+8pKMN+e1SSAflB03DdGs=
+		JTaRqJ3mpQY/cQoNgkIdygJ/ARc=
 		</data>
 		<key>signinViewController.nib</key>
 		<data>
-		qWoPv63bEEKxEuJCgaJOS+zqvrg=
+		iz6UXgmPyAeLvJKInN5l289IqWA=
 		</data>
 	</dict>
 	<key>rules</key>

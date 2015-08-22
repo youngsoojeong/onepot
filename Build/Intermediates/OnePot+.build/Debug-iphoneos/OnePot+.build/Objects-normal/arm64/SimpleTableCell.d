@@ -1,2 +1,2 @@
-dependencies: /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SimpleTableCell.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SimpleTableCell.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/SimpleTableCell.m \
+  /Users/dudtnwjd/onepot/OnePot+/SimpleTableCell.h
