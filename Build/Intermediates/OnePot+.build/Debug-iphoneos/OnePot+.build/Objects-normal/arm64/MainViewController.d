@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MainViewController.m \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MainViewController.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationController.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCPercentageDoughnutView.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCCore.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCUtil.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCNewCustomLayer.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCSliceLayer.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCNewCustomLayeredView.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/editViewController.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/postViewController.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/TGCameraViewController/Classes/Helper/TGCamera.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/TGCameraViewController/Classes/Control/TGCameraViewController.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/TGCameraViewController/Classes/Helper/TGAlbum.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/TGCameraViewController/Classes/Helper/TGAssetsLibrary.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/TGCameraViewController/Classes/Model/TGAssetImageFile.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/TGCameraViewController/Classes/Control/TGCameraNavigationController.h \
+  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/TGCameraViewController/Classes/Helper/TGCameraColor.h

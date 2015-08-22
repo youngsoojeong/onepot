@@ -1,0 +1,13 @@
+dependencies: \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/LoginViewController.m \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/LoginViewController.h \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/SlideNavigationController.h \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MainViewController.h \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCPercentageDoughnutView.h \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCCore.h \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCUtil.h \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCNewCustomLayer.h \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCSliceLayer.h \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/MCNewCustomLayeredView.h \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/signViewController.h \
+  /Users/dudtnwjd/Dropbox/Onepot/Progress/08_18_2/OnePot+/OnePot+/signinViewController.h

@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "bb110b4d622941a8acebed5c7a1f2ce1"
+inputs: 
+- !dirty "/Users/dudtnwjd/Desktop/OnePot+/OnePot+/BWWalkthroughPageViewController.swift"
+- !dirty "/Users/dudtnwjd/Desktop/OnePot+/OnePot+/BWWalkthroughViewController.swift"
