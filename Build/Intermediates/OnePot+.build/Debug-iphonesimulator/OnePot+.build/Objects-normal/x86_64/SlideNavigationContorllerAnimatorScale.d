@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationContorllerAnimatorScale.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationContorllerAnimatorScale.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationContorllerAnimator.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationController.h
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationContorllerAnimatorScale.m \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationContorllerAnimatorScale.h \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationContorllerAnimator.h \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationController.h

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/iOSUILib/MDTouchGestureRecognizer.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/iOSUILib/MDTouchGestureRecognizer.h
+  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/MDTouchGestureRecognizer.m \
+  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/MDTouchGestureRecognizer.h

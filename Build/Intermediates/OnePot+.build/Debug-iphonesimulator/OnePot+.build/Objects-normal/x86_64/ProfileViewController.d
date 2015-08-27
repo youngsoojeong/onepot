@@ -1,4 +1,3 @@
-dependencies: \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/ProfileViewController.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/ProfileViewController.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationController.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/ProfileViewController.m \
+  /Users/dudtnwjd/onepot/OnePot+/ProfileViewController.h \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationController.h

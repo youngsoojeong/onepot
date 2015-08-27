@@ -1,2 +1,2 @@
-dependencies: /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCUtil.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCUtil.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/MCUtil.m \
+  /Users/dudtnwjd/onepot/OnePot+/MCUtil.h

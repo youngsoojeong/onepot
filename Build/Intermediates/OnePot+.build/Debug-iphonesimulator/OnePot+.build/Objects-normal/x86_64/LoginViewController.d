@@ -1,11 +1,12 @@
-dependencies: \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/LoginViewController.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/LoginViewController.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationController.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MainViewController.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCPercentageDoughnutView.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCCore.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCUtil.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCNewCustomLayer.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCSliceLayer.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCNewCustomLayeredView.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/LoginViewController.m \
+  /Users/dudtnwjd/onepot/OnePot+/LoginViewController.h \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationController.h \
+  /Users/dudtnwjd/onepot/OnePot+/MainViewController.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCPercentageDoughnutView.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCCore.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCUtil.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCNewCustomLayer.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCSliceLayer.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCNewCustomLayeredView.h \
+  /Users/dudtnwjd/onepot/OnePot+/signViewController.h \
+  /Users/dudtnwjd/onepot/OnePot+/signinViewController.h

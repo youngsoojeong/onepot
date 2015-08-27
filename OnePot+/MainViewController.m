@@ -160,6 +160,7 @@
 
 -(IBAction)buttonNextpot:(id)sender{
     [self.labelPotname setText:@"Fryer Pot"];
+    
 }
 
 -(IBAction)buttonBeforepot:(id)sender{

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/iOSUILib/UIView+MDExtension.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/iOSUILib/UIView+MDExtension.h
+  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/UIView+MDExtension.m \
+  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/UIView+MDExtension.h

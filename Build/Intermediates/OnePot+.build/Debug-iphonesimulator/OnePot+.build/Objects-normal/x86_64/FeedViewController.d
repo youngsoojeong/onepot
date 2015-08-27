@@ -1,4 +1,3 @@
-dependencies: \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/FeedViewController.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/FeedViewController.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationController.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/FeedViewController.m \
+  /Users/dudtnwjd/onepot/OnePot+/FeedViewController.h \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationController.h

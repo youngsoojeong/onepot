@@ -1,4 +1,4 @@
-dependencies: /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCNewCustomLayer.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCNewCustomLayer.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCNewCustomLayeredView.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCUtil.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/MCNewCustomLayer.m \
+  /Users/dudtnwjd/onepot/OnePot+/MCNewCustomLayer.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCNewCustomLayeredView.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCUtil.h

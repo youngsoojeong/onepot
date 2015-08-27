@@ -1,4 +1,3 @@
-dependencies: \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationController.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationController.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationContorllerAnimator.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/SlideNavigationController.m \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationController.h \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationContorllerAnimator.h

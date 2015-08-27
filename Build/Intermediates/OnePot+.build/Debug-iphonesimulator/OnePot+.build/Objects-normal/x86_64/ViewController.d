@@ -1,2 +1,2 @@
-dependencies: /Users/dudtnwjd/Desktop/OnePot+/OnePot+/ViewController.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/ViewController.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/ViewController.m \
+  /Users/dudtnwjd/onepot/OnePot+/ViewController.h

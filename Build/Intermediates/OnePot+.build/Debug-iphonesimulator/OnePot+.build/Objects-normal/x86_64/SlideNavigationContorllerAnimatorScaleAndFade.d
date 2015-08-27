@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationContorllerAnimatorScaleAndFade.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationContorllerAnimatorScaleAndFade.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationContorllerAnimator.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationController.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationContorllerAnimatorFade.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/SlideNavigationContorllerAnimatorScale.h
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationContorllerAnimatorScaleAndFade.m \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationContorllerAnimatorScaleAndFade.h \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationContorllerAnimator.h \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationController.h \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationContorllerAnimatorFade.h \
+  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationContorllerAnimatorScale.h

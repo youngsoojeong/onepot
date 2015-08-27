@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/iOSUILib/Slider/MDSliderTickMarksView.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/iOSUILib/Slider/MDSliderTickMarksView.h
+  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/Slider/MDSliderTickMarksView.m \
+  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/Slider/MDSliderTickMarksView.h

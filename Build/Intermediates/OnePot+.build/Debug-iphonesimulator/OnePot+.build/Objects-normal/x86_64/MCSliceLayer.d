@@ -1,4 +1,4 @@
-dependencies: /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCSliceLayer.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCSliceLayer.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCUtil.h \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/MCNewCustomLayer.h
+dependencies: /Users/dudtnwjd/onepot/OnePot+/MCSliceLayer.m \
+  /Users/dudtnwjd/onepot/OnePot+/MCSliceLayer.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCUtil.h \
+  /Users/dudtnwjd/onepot/OnePot+/MCNewCustomLayer.h

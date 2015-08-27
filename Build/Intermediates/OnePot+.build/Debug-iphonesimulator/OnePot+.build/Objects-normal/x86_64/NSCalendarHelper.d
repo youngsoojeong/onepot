@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/iOSUILib/Calendar/NSCalendarHelper.m \
-  /Users/dudtnwjd/Desktop/OnePot+/OnePot+/iOSUILib/Calendar/NSCalendarHelper.h
+  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/Calendar/NSCalendarHelper.m \
+  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/Calendar/NSCalendarHelper.h
