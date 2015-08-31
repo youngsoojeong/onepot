@@ -1,3 +1,4 @@
-dependencies: /Users/dudtnwjd/onepot/OnePot+/TabContentViewController.m \
-  /Users/dudtnwjd/onepot/OnePot+/TabContentViewController.h \
-  /Users/dudtnwjd/onepot/OnePot+/feedcellTableViewCell.h
+dependencies: \
+  /Users/dudtnwjd/onepot-ios/OnePot+/TabContentViewController.m \
+  /Users/dudtnwjd/onepot-ios/OnePot+/TabContentViewController.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/feedcellTableViewCell.h

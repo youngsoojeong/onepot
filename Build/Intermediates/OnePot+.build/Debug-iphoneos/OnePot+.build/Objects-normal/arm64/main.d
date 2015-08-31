@@ -1,3 +1,3 @@
-dependencies: /Users/dudtnwjd/onepot/OnePot+/main.m \
-  /Users/dudtnwjd/onepot/OnePot+/AppDelegate.h \
-  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationController.h
+dependencies: /Users/dudtnwjd/onepot-ios/OnePot+/main.m \
+  /Users/dudtnwjd/onepot-ios/OnePot+/AppDelegate.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/SlideNavigationController.h

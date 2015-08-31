@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/Helpers/MDMathHelper.m \
-  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/Helpers/MDMathHelper.h
+  /Users/dudtnwjd/onepot-ios/OnePot+/iOSUILib/Helpers/MDMathHelper.m \
+  /Users/dudtnwjd/onepot-ios/OnePot+/iOSUILib/Helpers/MDMathHelper.h

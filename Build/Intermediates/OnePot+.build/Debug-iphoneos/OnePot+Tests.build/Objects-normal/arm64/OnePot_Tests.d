@@ -1,4 +1,4 @@
-dependencies: /Users/dudtnwjd/onepot/OnePot+Tests/OnePot_Tests.m \
+dependencies: /Users/dudtnwjd/onepot-ios/OnePot+Tests/OnePot_Tests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuiteRun.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestProbe.h \

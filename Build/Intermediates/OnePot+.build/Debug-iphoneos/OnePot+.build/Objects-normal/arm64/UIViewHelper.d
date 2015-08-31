@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/Helpers/UIViewHelper.m \
-  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/Helpers/UIViewHelper.h
+  /Users/dudtnwjd/onepot-ios/OnePot+/iOSUILib/Helpers/UIViewHelper.m \
+  /Users/dudtnwjd/onepot-ios/OnePot+/iOSUILib/Helpers/UIViewHelper.h

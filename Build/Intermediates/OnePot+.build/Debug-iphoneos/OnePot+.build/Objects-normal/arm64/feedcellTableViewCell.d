@@ -1,2 +1,2 @@
-dependencies: /Users/dudtnwjd/onepot/OnePot+/feedcellTableViewCell.m \
-  /Users/dudtnwjd/onepot/OnePot+/feedcellTableViewCell.h
+dependencies: /Users/dudtnwjd/onepot-ios/OnePot+/feedcellTableViewCell.m \
+  /Users/dudtnwjd/onepot-ios/OnePot+/feedcellTableViewCell.h

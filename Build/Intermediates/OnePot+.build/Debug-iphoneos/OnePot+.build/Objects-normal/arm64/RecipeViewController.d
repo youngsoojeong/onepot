@@ -1,3 +1,3 @@
-dependencies: /Users/dudtnwjd/onepot/OnePot+/RecipeViewController.m \
-  /Users/dudtnwjd/onepot/OnePot+/RecipeViewController.h \
-  /Users/dudtnwjd/onepot/OnePot+/SlideNavigationController.h
+dependencies: /Users/dudtnwjd/onepot-ios/OnePot+/RecipeViewController.m \
+  /Users/dudtnwjd/onepot-ios/OnePot+/RecipeViewController.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/SlideNavigationController.h

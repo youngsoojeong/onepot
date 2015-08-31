@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/Slider/MDSliderIcon.m \
-  /Users/dudtnwjd/onepot/OnePot+/iOSUILib/Slider/MDSliderIcon.h
+  /Users/dudtnwjd/onepot-ios/OnePot+/iOSUILib/Slider/MDSliderIcon.m \
+  /Users/dudtnwjd/onepot-ios/OnePot+/iOSUILib/Slider/MDSliderIcon.h
