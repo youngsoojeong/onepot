@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>5C7E5CB4-FD36-4533-91EE-0557B51DBC0E</string>
 	<key>IDESourceControlProjectName</key>
-	<string>OnePot+</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>908FEAE2E0A65AE27D2B168E7934F99CBEF91979</key>
 		<string>https://github.com/youngsoojeong/onepot</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>OnePot+.xcodeproj</string>
+	<string>OnePot+.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>908FEAE2E0A65AE27D2B168E7934F99CBEF91979</key>
