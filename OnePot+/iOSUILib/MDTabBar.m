@@ -166,8 +166,8 @@
     for (CALayer *layer in view.layer.sublayers) {
       if ([layer isKindOfClass:[MDRippleLayer class]]) {
         [((MDRippleLayer *)layer)setEffectColor:_rippleColor
-                                withRippleAlpha:.1f
-                                backgroundAlpha:.1f];
+                                withRippleAlpha:1.0f
+                                backgroundAlpha:1.0f];
         return;
       }
     }
@@ -319,8 +319,8 @@
       if (!hasRipple) {
         MDRippleLayer *layer = [[MDRippleLayer alloc] initWithSuperView:view];
         [layer setEffectColor:_rippleColor
-              withRippleAlpha:.1f
-              backgroundAlpha:.1f];
+              withRippleAlpha:.2f
+              backgroundAlpha:.2f];
         layer.enableElevation = NO;
         layer.rippleScaleRatio = 1;
       }
@@ -443,16 +443,16 @@
 
   [self addSubview:scrollView];
 
-  [self setBackgroundColor:[UIColorHelper colorWithRGBA:kMDColorPrimary500]];
+  [self setBackgroundColor:[UIColor colorWithRed:0.1 green:0.1 blue:0.1 alpha:.1]];
   self.layer.shadowColor = [UIColor blackColor].CGColor;
-  self.layer.shadowRadius = 1;
-  self.layer.shadowOpacity = .5;
-  self.layer.shadowOffset = CGSizeMake(0, 1.5);
+  self.layer.shadowRadius = 0;
+  self.layer.shadowOpacity = 0;
+  self.layer.shadowOffset = CGSizeMake(0, 0);
 
-  [self setTextColor:[UIColor whiteColor]];
+  [self setTextColor:[UIColor colorWithRed:1 green:.4 blue:.4 alpha:1]];
   [self setTextFont:[UIFontHelper robotoFontWithName:@"roboto-medium" size:14]];
-  [self setIndicatorColor:[UIColor whiteColor]];
-  [self setRippleColor:[UIColor whiteColor]];
+  [self setIndicatorColor:[UIColor colorWithRed:1 green:.4 blue:.4 alpha:1]];
+  [self setRippleColor:[UIColor colorWithRed:1 green:.4 blue:.4 alpha:1]];
 }
 
 - (void)willMoveToSuperview:(UIView *)newSuperview {

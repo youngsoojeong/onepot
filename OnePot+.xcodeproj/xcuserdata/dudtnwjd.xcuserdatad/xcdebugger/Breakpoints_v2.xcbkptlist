@@ -25,8 +25,8 @@
                   symbolName = "-[LeftMenuViewController buttonRecipe:]"
                   moduleName = "OnePot+"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dudtnwjd/Desktop/OnePot+/OnePot+/LeftMenuViewController.m"
-                  timestampString = "461731469.349684"
+                  urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/LeftMenuViewController.m"
+                  timestampString = "465463835.726994"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "72"
@@ -40,13 +40,13 @@
                   symbolName = "__39-[LeftMenuViewController buttonRecipe:]_block_invoke"
                   moduleName = "OnePot+"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dudtnwjd/Desktop/OnePot+/OnePot+/LeftMenuViewController.m"
-                  timestampString = "461731469.349874"
+                  urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/LeftMenuViewController.m"
+                  timestampString = "465463835.727367"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "74"
                   endingLineNumber = "74"
-                  offsetFromSymbolStart = "12">
+                  offsetFromSymbolStart = "6">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -122,7 +122,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "OnePot+/AppDelegate.m"
-            timestampString = "461276266.313996"
+            timestampString = "465573445.461806"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "20"

@@ -78,7 +78,7 @@
   // create constraints
   UIView *parentView = self.view;
   UIView *pageControllerView = pageController.view;
-  //  pageControllerView.backgroundColor = [UIColor blueColor];
+    pageControllerView.backgroundColor = [UIColor blueColor];
 
   NSDictionary *viewsDictionary =
       NSDictionaryOfVariableBindings(parentView, _tabBar, pageControllerView);

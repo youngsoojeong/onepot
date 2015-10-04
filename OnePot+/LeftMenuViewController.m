@@ -39,10 +39,10 @@
 }];
     
     [self.buttonMain setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1] forState:UIControlStateNormal];
-    [self.buttonProfile setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonFeeds setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:0.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonRecipe setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonSetting setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:0.62 alpha:1] forState:UIControlStateNormal];
+    [self.buttonProfile setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonFeeds setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonRecipe setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonSetting setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
     
 }
 
@@ -52,10 +52,10 @@
         
     }];
     [self.buttonProfile setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1] forState:UIControlStateNormal];
-    [self.buttonMain setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonFeeds setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:0.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonRecipe setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonSetting setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:0.62 alpha:1] forState:UIControlStateNormal];
+    [self.buttonMain setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonFeeds setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonRecipe setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonSetting setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
 
 }
 - (IBAction)buttonFeed:(id)sender {
@@ -63,30 +63,30 @@
     
 }];
     [self.buttonFeeds setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1] forState:UIControlStateNormal];
-    [self.buttonProfile setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonMain setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:0.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonRecipe setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonSetting setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:0.62 alpha:1] forState:UIControlStateNormal];
+    [self.buttonProfile setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonMain setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonRecipe setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonSetting setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
 }
 
 - (IBAction)buttonRecipe:(id)sender {    [[SlideNavigationController sharedInstance] popAllAndSwitchToViewController:[[RecipeViewController alloc] init] withCompletion:^{
     
 }];
     [self.buttonRecipe setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1] forState:UIControlStateNormal];
-    [self.buttonProfile setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonFeeds setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:0.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonMain setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonSetting setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:0.62 alpha:1] forState:UIControlStateNormal];
+    [self.buttonProfile setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonFeeds setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonMain setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonSetting setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
 }
 - (IBAction)buttonSetting:(id)sender {
     [[SlideNavigationController sharedInstance] popAllAndSwitchToViewController:[[SettingViewController alloc] init] withCompletion:^{
         
     }];
     [self.buttonSetting setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1] forState:UIControlStateNormal];
-    [self.buttonProfile setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonFeeds setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:0.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonRecipe setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:.62 alpha:1] forState:UIControlStateNormal];
-    [self.buttonMain setTitleColor:[UIColor colorWithRed:.62 green:.62 blue:0.62 alpha:1] forState:UIControlStateNormal];
+    [self.buttonProfile setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonFeeds setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonRecipe setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
+    [self.buttonMain setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
 }
 - (IBAction)buttonLogout:(id)sender {
     UIAlertView *alert = [[UIAlertView alloc]initWithTitle:@"Log Out"
