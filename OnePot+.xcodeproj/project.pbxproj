@@ -69,6 +69,8 @@
 		A242FBC21B84B2C2005E5F67 /* SimpleTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A242FBC01B84B2C2005E5F67 /* SimpleTableCell.xib */; };
 		A242FBC61B84D00B005E5F67 /* feedcellTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A242FBC41B84D00B005E5F67 /* feedcellTableViewCell.m */; };
 		A242FBC71B84D00B005E5F67 /* feedcellTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A242FBC51B84D00B005E5F67 /* feedcellTableViewCell.xib */; };
+		A25566B21BC402AF0020BCAC /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A25566B01BC402AF0020BCAC /* SearchViewController.m */; settings = {ASSET_TAGS = (); }; };
+		A25566B31BC402AF0020BCAC /* SearchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A25566B11BC402AF0020BCAC /* SearchViewController.xib */; settings = {ASSET_TAGS = (); }; };
 		A2595A181B82DA8200C1A993 /* UIImage+CameraFilters.m in Sources */ = {isa = PBXBuildFile; fileRef = A25959DC1B82DA8200C1A993 /* UIImage+CameraFilters.m */; };
 		A2595A191B82DA8200C1A993 /* TGCameraAuthorizationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A25959DF1B82DA8200C1A993 /* TGCameraAuthorizationViewController.m */; };
 		A2595A1A1B82DA8200C1A993 /* TGCameraNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = A25959E11B82DA8200C1A993 /* TGCameraNavigationController.m */; };
@@ -103,6 +105,8 @@
 		A29ECE271B7FCD4300479866 /* editViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A29ECE251B7FCD4300479866 /* editViewController.xib */; };
 		A29ECE2B1B7FF1F800479866 /* postViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A29ECE291B7FF1F800479866 /* postViewController.m */; };
 		A29ECE2C1B7FF1F800479866 /* postViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A29ECE2A1B7FF1F800479866 /* postViewController.xib */; };
+		A2C605391BC3FA3100F76F5A /* RecommendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2C605371BC3FA3100F76F5A /* RecommendViewController.m */; settings = {ASSET_TAGS = (); }; };
+		A2C6053A1BC3FA3100F76F5A /* RecommendViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2C605381BC3FA3100F76F5A /* RecommendViewController.xib */; settings = {ASSET_TAGS = (); }; };
 		A2CB58351B7E2FB8006A31B7 /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2CB58331B7E2FB8006A31B7 /* SettingViewController.m */; };
 		A2CB58361B7E2FB8006A31B7 /* SettingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2CB58341B7E2FB8006A31B7 /* SettingViewController.xib */; };
 		A2DA90C41B7E2D24002E4E97 /* RecipeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2DA90C21B7E2D24002E4E97 /* RecipeViewController.m */; };
@@ -118,7 +122,6 @@
 		A2DBEBD21B7CE1740021FC62 /* ProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2DBEBD01B7CE1740021FC62 /* ProfileViewController.m */; };
 		A2DBEBD31B7CE1740021FC62 /* ProfileViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2DBEBD11B7CE1740021FC62 /* ProfileViewController.xib */; };
 		A2DBEBD71B7CE30B0021FC62 /* FeedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2DBEBD51B7CE30B0021FC62 /* FeedViewController.m */; };
-		A2DBEBD81B7CE30B0021FC62 /* FeedViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2DBEBD61B7CE30B0021FC62 /* FeedViewController.xib */; };
 		A2DBEBDD1B7CE9F40021FC62 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2DBEBDB1B7CE9F40021FC62 /* LoginViewController.m */; };
 		A2DBEBDE1B7CE9F40021FC62 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2DBEBDC1B7CE9F40021FC62 /* LoginViewController.xib */; };
 /* End PBXBuildFile section */
@@ -255,6 +258,9 @@
 		A242FBC31B84D00B005E5F67 /* feedcellTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = feedcellTableViewCell.h; sourceTree = "<group>"; };
 		A242FBC41B84D00B005E5F67 /* feedcellTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = feedcellTableViewCell.m; sourceTree = "<group>"; };
 		A242FBC51B84D00B005E5F67 /* feedcellTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = feedcellTableViewCell.xib; sourceTree = "<group>"; };
+		A25566AF1BC402AF0020BCAC /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
+		A25566B01BC402AF0020BCAC /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
+		A25566B11BC402AF0020BCAC /* SearchViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SearchViewController.xib; sourceTree = "<group>"; };
 		A25959DB1B82DA8200C1A993 /* UIImage+CameraFilters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+CameraFilters.h"; sourceTree = "<group>"; };
 		A25959DC1B82DA8200C1A993 /* UIImage+CameraFilters.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+CameraFilters.m"; sourceTree = "<group>"; };
 		A25959DE1B82DA8200C1A993 /* TGCameraAuthorizationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGCameraAuthorizationViewController.h; sourceTree = "<group>"; };
@@ -316,6 +322,9 @@
 		A29ECE281B7FF1F800479866 /* postViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = postViewController.h; sourceTree = "<group>"; };
 		A29ECE291B7FF1F800479866 /* postViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = postViewController.m; sourceTree = "<group>"; };
 		A29ECE2A1B7FF1F800479866 /* postViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = postViewController.xib; sourceTree = "<group>"; };
+		A2C605361BC3FA3100F76F5A /* RecommendViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecommendViewController.h; sourceTree = "<group>"; };
+		A2C605371BC3FA3100F76F5A /* RecommendViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecommendViewController.m; sourceTree = "<group>"; };
+		A2C605381BC3FA3100F76F5A /* RecommendViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RecommendViewController.xib; sourceTree = "<group>"; };
 		A2CB58321B7E2FB8006A31B7 /* SettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingViewController.h; sourceTree = "<group>"; };
 		A2CB58331B7E2FB8006A31B7 /* SettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingViewController.m; sourceTree = "<group>"; };
 		A2CB58341B7E2FB8006A31B7 /* SettingViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingViewController.xib; sourceTree = "<group>"; };
@@ -343,7 +352,6 @@
 		A2DBEBD11B7CE1740021FC62 /* ProfileViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ProfileViewController.xib; sourceTree = "<group>"; };
 		A2DBEBD41B7CE30B0021FC62 /* FeedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeedViewController.h; sourceTree = "<group>"; };
 		A2DBEBD51B7CE30B0021FC62 /* FeedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeedViewController.m; sourceTree = "<group>"; };
-		A2DBEBD61B7CE30B0021FC62 /* FeedViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FeedViewController.xib; sourceTree = "<group>"; };
 		A2DBEBDA1B7CE9F40021FC62 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		A2DBEBDB1B7CE9F40021FC62 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 		A2DBEBDC1B7CE9F40021FC62 /* LoginViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
@@ -434,13 +442,13 @@
 			isa = PBXGroup;
 			children = (
 				A2037EBA1B7CC4F50030E911 /* LeftMenuViewController.h */,
+				A2DBEBD01B7CE1740021FC62 /* ProfileViewController.m */,
 				A2037EBB1B7CC4F50030E911 /* LeftMenuViewController.m */,
 				A2DBEBDA1B7CE9F40021FC62 /* LoginViewController.h */,
 				A2DBEBDB1B7CE9F40021FC62 /* LoginViewController.m */,
 				A2DBEBCA1B7CDF210021FC62 /* MainViewController.h */,
 				A2DBEBCB1B7CDF210021FC62 /* MainViewController.m */,
 				A2DBEBCF1B7CE1740021FC62 /* ProfileViewController.h */,
-				A2DBEBD01B7CE1740021FC62 /* ProfileViewController.m */,
 				A21761041B7E7A2D00CFF5E7 /* Feeds */,
 				A2DBEBD41B7CE30B0021FC62 /* FeedViewController.h */,
 				A2DBEBD51B7CE30B0021FC62 /* FeedViewController.m */,
@@ -460,6 +468,10 @@
 				A242FBBF1B84B2C2005E5F67 /* SimpleTableCell.m */,
 				A242FBC31B84D00B005E5F67 /* feedcellTableViewCell.h */,
 				A242FBC41B84D00B005E5F67 /* feedcellTableViewCell.m */,
+				A2C605361BC3FA3100F76F5A /* RecommendViewController.h */,
+				A2C605371BC3FA3100F76F5A /* RecommendViewController.m */,
+				A25566AF1BC402AF0020BCAC /* SearchViewController.h */,
+				A25566B01BC402AF0020BCAC /* SearchViewController.m */,
 			);
 			name = ViewController;
 			sourceTree = "<group>";
@@ -774,7 +786,6 @@
 				A29ECE251B7FCD4300479866 /* editViewController.xib */,
 				A29ECE2A1B7FF1F800479866 /* postViewController.xib */,
 				A2DBEBD11B7CE1740021FC62 /* ProfileViewController.xib */,
-				A2DBEBD61B7CE30B0021FC62 /* FeedViewController.xib */,
 				A2DA90C31B7E2D24002E4E97 /* RecipeViewController.xib */,
 				A2CB58341B7E2FB8006A31B7 /* SettingViewController.xib */,
 				A21760FA1B7E7A2800CFF5E7 /* TabBarViewControllerViewController.xib */,
@@ -782,6 +793,8 @@
 				A2595A361B82EBD400C1A993 /* signinViewController.xib */,
 				A242FBC01B84B2C2005E5F67 /* SimpleTableCell.xib */,
 				A242FBC51B84D00B005E5F67 /* feedcellTableViewCell.xib */,
+				A2C605381BC3FA3100F76F5A /* RecommendViewController.xib */,
+				A25566B11BC402AF0020BCAC /* SearchViewController.xib */,
 			);
 			name = xib;
 			sourceTree = "<group>";
@@ -870,16 +883,17 @@
 				A2595A321B82DA8200C1A993 /* TGCameraViewController.bundle in Resources */,
 				A2DA90C51B7E2D24002E4E97 /* RecipeViewController.xib in Resources */,
 				A21761031B7E7A2800CFF5E7 /* TabContentViewController.xib in Resources */,
+				A2C6053A1BC3FA3100F76F5A /* RecommendViewController.xib in Resources */,
 				A21761011B7E7A2800CFF5E7 /* TabBarViewControllerViewController.xib in Resources */,
 				A2CB58361B7E2FB8006A31B7 /* SettingViewController.xib in Resources */,
 				A2DBEBD31B7CE1740021FC62 /* ProfileViewController.xib in Resources */,
 				A2595A2F1B82DA8200C1A993 /* TGCameraAuthorizationViewController.xib in Resources */,
 				A242FBC21B84B2C2005E5F67 /* SimpleTableCell.xib in Resources */,
-				A2DBEBD81B7CE30B0021FC62 /* FeedViewController.xib in Resources */,
 				A2595A381B82EBD400C1A993 /* signinViewController.xib in Resources */,
 				A2037E9E1B7CC3F10030E911 /* LaunchScreen.xib in Resources */,
 				A2DBEBCE1B7CDF210021FC62 /* MainViewController.xib in Resources */,
 				A2595A331B82DA8200C1A993 /* TGCameraViewController.xcassets in Resources */,
+				A25566B31BC402AF0020BCAC /* SearchViewController.xib in Resources */,
 				A2595A311B82DA8200C1A993 /* TGPhotoViewController.xib in Resources */,
 				A2037E9B1B7CC3F10030E911 /* Images.xcassets in Resources */,
 				A2DBEBDE1B7CE9F40021FC62 /* LoginViewController.xib in Resources */,
@@ -927,6 +941,7 @@
 				A21761601B7E7AA200CFF5E7 /* MDCalendarCell.m in Sources */,
 				A2DBEBD71B7CE30B0021FC62 /* FeedViewController.m in Sources */,
 				A2595A291B82DA8200C1A993 /* TGCameraGridView.m in Sources */,
+				A2C605391BC3FA3100F76F5A /* RecommendViewController.m in Sources */,
 				A21761611B7E7AA200CFF5E7 /* MDCalendarDateHeader.m in Sources */,
 				A21445EF1B7F2FEC0042DF44 /* signViewController.m in Sources */,
 				A2037E961B7CC3F10030E911 /* ViewController.m in Sources */,
@@ -978,6 +993,7 @@
 				A21761651B7E7AA200CFF5E7 /* MDDatePicker.m in Sources */,
 				A21761731B7E7AA200CFF5E7 /* MDRippleLayer.m in Sources */,
 				A217615E1B7E7AA200CFF5E7 /* AutoResizeTextView.m in Sources */,
+				A25566B21BC402AF0020BCAC /* SearchViewController.m in Sources */,
 				A21761841B7E7AA200CFF5E7 /* MDSuggestPopupView.m in Sources */,
 				A2595A1C1B82DA8200C1A993 /* TGPhotoViewController.m in Sources */,
 				A2595A371B82EBD400C1A993 /* signinViewController.m in Sources */,

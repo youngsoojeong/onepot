@@ -13,7 +13,55 @@
         <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
             <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Settings" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="v1R-Zc-V7L">
+                    <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                    <animations/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="82" id="1yl-Qq-64z"/>
+                        <constraint firstAttribute="height" constant="21" id="5IU-0D-2hd"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                    <color key="textColor" red="0.95294117649999999" green="0.41960784309999999" blue="0.41960784309999999" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="1yl-Qq-64z"/>
+                            <exclude reference="5IU-0D-2hd"/>
+                        </mask>
+                    </variation>
+                    <variation key="heightClass=regular-widthClass=compact">
+                        <mask key="constraints">
+                            <include reference="1yl-Qq-64z"/>
+                            <include reference="5IU-0D-2hd"/>
+                        </mask>
+                    </variation>
+                </label>
+            </subviews>
             <animations/>
+            <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="v1R-Zc-V7L" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="36" id="4jc-qR-hAL"/>
+                <constraint firstItem="v1R-Zc-V7L" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="O4N-7p-jLX"/>
+            </constraints>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="v1R-Zc-V7L"/>
+                </mask>
+                <mask key="constraints">
+                    <exclude reference="4jc-qR-hAL"/>
+                    <exclude reference="O4N-7p-jLX"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=regular-widthClass=compact">
+                <mask key="subviews">
+                    <include reference="v1R-Zc-V7L"/>
+                </mask>
+                <mask key="constraints">
+                    <include reference="4jc-qR-hAL"/>
+                    <include reference="O4N-7p-jLX"/>
+                </mask>
+            </variation>
         </view>
     </objects>
 </document>

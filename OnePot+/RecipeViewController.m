@@ -7,22 +7,130 @@
 //
 
 #import "RecipeViewController.h"
+#import "iOSUILib/MDTabBarViewController.h"
+#import "TabContentViewController.h"
+#import "RecommendViewController.h"
 
-@interface RecipeViewController ()
+@interface RecipeViewController ()<
+    MDTabBarViewControllerDelegate>
 
 @end
 
-@implementation RecipeViewController
+@implementation RecipeViewController{
+    MDTabBarViewController *recipeViewController;
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view from its nib.
+    
+    [self addChildViewController:recipeViewController];
+    [self.view addSubview:recipeViewController.view];
+    [recipeViewController didMoveToParentViewController:self];
+    UIView *controllerView = recipeViewController.view;
+    id<UILayoutSupport> rootTopLayoutGuide = self.topLayoutGuide;
+    id<UILayoutSupport> rootBottomLayoutGuide = self.bottomLayoutGuide;
+    NSDictionary *viewsDictionary = NSDictionaryOfVariableBindings(
+                                                                   rootTopLayoutGuide, rootBottomLayoutGuide, controllerView);
+    
+    [self.view
+     addConstraints:[NSLayoutConstraint
+                     constraintsWithVisualFormat:@"V:[rootTopLayoutGuide]["
+                     @"controllerView][" @"rootBottomLayoutGuide]"
+                     options:0
+                     metrics:nil
+                     views:viewsDictionary]];
+    [self.view
+     addConstraints:[NSLayoutConstraint
+                     constraintsWithVisualFormat:@"H:|[controllerView]|"
+                     options:0
+                     metrics:nil
+                     views:viewsDictionary]];
+    //타이틀 바이름  self.title = @"Feeds";
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+- (instancetype)init {
+    if (self = [super init]) {
+        [self initContent];
+    }
+    
+    return self;
+}
+
+- (id)initWithCoder:(NSCoder *)aDecoder {
+    if (self = [super initWithCoder:aDecoder]) {
+        [self initContent];
+    }
+    
+    return self;
+}
+
+//- (instancetype)initWithNibName:(NSString *)nibNameOrNil
+//                         bundle:(NSBundle *)nibBundleOrNil {
+//  if (self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil]) {
+//    [self initContent];
+//  }
+//
+//  return self;
+//}
+
+- (void)initContent {
+    recipeViewController = [[MDTabBarViewController alloc] initWithDelegate:self];
+    NSArray *names = @[
+                       @"Recommends",
+                       @"News",
+                       @"Ranking",
+                      
+                       
+                       ];
+    [recipeViewController setItems:names];
+}
+
+
+- (UIViewController *)tabBarViewController:
+(MDTabBarViewController *)viewController
+                     viewControllerAtIndex:(NSUInteger)index {
+    if(index==0){
+        RecommendViewController *controller =
+        [[RecommendViewController alloc] init];
+       
+        
+        /* Library code */
+        //self.shyNavBarManager.scrollView = controller.newsTableView;
+        
+        dispatch_async(dispatch_get_main_queue(), ^{
+            
+        });
+        return controller;
+    }else{
+        
+        
+        TabContentViewController *controller =
+        
+        [[TabContentViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
+            
+        });
+        
+        /* Library code */
+        //self.shyNavBarManager.scrollView = controller.tableView;
+        return controller;
+    }
+    
+}
+
+- (void)tabBarViewController:(MDTabBarViewController *)viewController
+              didMoveToIndex:(NSUInteger)index {
+}
+/**
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}**/
+
 #pragma mark SlideNavigationControllerDelegate
 
 - (BOOL)slideNavigationControllerShouldDisplayLeftMenu

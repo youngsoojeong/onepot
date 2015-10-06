@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="15A284" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="RecommendViewController">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="RecoMain" translatesAutoresizingMaskIntoConstraints="NO" id="Idh-cP-dRe">
+                    <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                    <animations/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="Idh-cP-dRe" secondAttribute="height" multiplier="400:313" id="36J-vo-tzK"/>
+                        <constraint firstAttribute="height" constant="313" id="HgR-5O-ktq"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="36J-vo-tzK"/>
+                            <exclude reference="HgR-5O-ktq"/>
+                        </mask>
+                    </variation>
+                    <variation key="heightClass=regular-widthClass=compact">
+                        <mask key="constraints">
+                            <include reference="36J-vo-tzK"/>
+                            <include reference="HgR-5O-ktq"/>
+                        </mask>
+                    </variation>
+                </imageView>
+            </subviews>
+            <animations/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="Idh-cP-dRe" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="0gQ-ps-XPX"/>
+                <constraint firstAttribute="trailing" secondItem="Idh-cP-dRe" secondAttribute="trailing" id="hkd-kw-vhD"/>
+                <constraint firstItem="Idh-cP-dRe" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="rrs-lL-Vts"/>
+            </constraints>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="Idh-cP-dRe"/>
+                </mask>
+                <mask key="constraints">
+                    <exclude reference="0gQ-ps-XPX"/>
+                    <exclude reference="hkd-kw-vhD"/>
+                    <exclude reference="rrs-lL-Vts"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=regular-widthClass=compact">
+                <mask key="subviews">
+                    <include reference="Idh-cP-dRe"/>
+                </mask>
+                <mask key="constraints">
+                    <include reference="0gQ-ps-XPX"/>
+                    <include reference="hkd-kw-vhD"/>
+                    <include reference="rrs-lL-Vts"/>
+                </mask>
+            </variation>
+        </view>
+    </objects>
+    <resources>
+        <image name="RecoMain" width="414" height="324"/>
+    </resources>
+</document>

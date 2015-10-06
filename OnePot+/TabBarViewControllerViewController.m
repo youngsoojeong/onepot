@@ -23,6 +23,7 @@
 #import "TabBarViewControllerViewController.h"
 #import "iOSUILib/MDTabBarViewController.h"
 #import "TabContentViewController.h"
+#import "SearchViewController.h"
 
 @interface TabBarViewControllerViewController () <
     MDTabBarViewControllerDelegate>
@@ -76,6 +77,11 @@
     @"Water Pot",
    
   ];
+    [tabBarViewController setItems:names];
+    [tabBarViewController.view setBackgroundColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1]];
+    [tabBarViewController.view.subviews[0] setBackgroundColor:[UIColor whiteColor]];
+    
+    [tabBarViewController.view.subviews[1] setBackgroundColor:[UIColor clearColor]];
   [tabBarViewController setItems:names];
 }
 
@@ -129,6 +135,15 @@
 }
 
 
+
+-(IBAction) buttonSearch:(id)sender{
+    [self setModalTransitionStyle:UIModalTransitionStyleCoverVertical];
+    [self presentViewController:[[SearchViewController alloc] init] animated:YES completion:nil];
+    /*[[SlideNavigationController sharedInstance] popAllAndSwitchToViewController:[[editViewController alloc] init] withCompletion:^{
+     
+     }];*/
+    
+}
 #pragma mark SlideNavigationControllerDelegate
 
 - (BOOL)slideNavigationControllerShouldDisplayLeftMenu

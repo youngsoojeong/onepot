@@ -357,7 +357,7 @@
         </label>
     </objects>
     <resources>
-        <image name="exitButton" width="30" height="30"/>
+        <image name="exitButton" width="40" height="41"/>
         <image name="onpotLogo" width="101" height="101"/>
         <image name="segWhiteLine" width="297" height="2"/>
     </resources>

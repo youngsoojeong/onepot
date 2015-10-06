@@ -26,7 +26,7 @@
                   moduleName = "OnePot+"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/LeftMenuViewController.m"
-                  timestampString = "465463835.726994"
+                  timestampString = "465831046.771891"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "72"
@@ -41,12 +41,12 @@
                   moduleName = "OnePot+"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/LeftMenuViewController.m"
-                  timestampString = "465463835.727367"
+                  timestampString = "465831046.772162"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "74"
                   endingLineNumber = "74"
-                  offsetFromSymbolStart = "6">
+                  offsetFromSymbolStart = "12">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -158,6 +158,22 @@
             startingLineNumber = "224"
             endingLineNumber = "224"
             landmarkName = "-buttonSave:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnePot+/TabBarViewControllerViewController.m"
+            timestampString = "465834039.7593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "-buttonSearch:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>

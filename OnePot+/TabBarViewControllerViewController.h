@@ -24,5 +24,6 @@
 #import "SlideNavigationController.h"
 
 @interface TabBarViewControllerViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIButton *buttonSearch;
 
 @end
