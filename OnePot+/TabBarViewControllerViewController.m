@@ -24,6 +24,7 @@
 #import "iOSUILib/MDTabBarViewController.h"
 #import "TabContentViewController.h"
 #import "SearchViewController.h"
+#import "TabContents2ViewController.h"
 
 @interface TabBarViewControllerViewController () <
     MDTabBarViewControllerDelegate>
@@ -119,15 +120,34 @@
 }
 
 - (UIViewController *)tabBarViewController:
-                          (MDTabBarViewController *)viewController
+(MDTabBarViewController *)viewController
                      viewControllerAtIndex:(NSUInteger)index {
-
-  TabContentViewController *controller =
-      [[TabContentViewController alloc] init];
-  dispatch_async(dispatch_get_main_queue(), ^{
-  //  [controller setContent:[NSString stringWithFormat:@"Tab %i", index + 1]];
-  });
-  return controller;
+    if(index==0){
+        TabContentViewController *controller =
+        [[TabContentViewController alloc] init];
+        
+        
+        /* Library code */
+        //self.shyNavBarManager.scrollView = controller.newsTableView;
+        
+        dispatch_async(dispatch_get_main_queue(), ^{
+            
+        });
+        return controller;
+    }else{
+        
+        
+        TabContentViewController *controller =
+        
+        [[TabContentViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
+            
+        });
+        
+        /* Library code */
+        //self.shyNavBarManager.scrollView = controller.tableView;
+        return controller;
+    }
+    
 }
 
 - (void)tabBarViewController:(MDTabBarViewController *)viewController

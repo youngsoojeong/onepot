@@ -134,14 +134,14 @@
                     <exclude reference="Wgl-fL-Bxc"/>
                 </mask>
                 <mask key="constraints">
-                    <exclude reference="Gnw-IU-eAv"/>
-                    <exclude reference="vld-X4-7HM"/>
-                    <exclude reference="phO-He-tkS"/>
-                    <exclude reference="ttV-Y6-YpZ"/>
-                    <exclude reference="5Im-pE-Mwf"/>
-                    <exclude reference="pma-4M-xX0"/>
                     <exclude reference="69i-OP-bUI"/>
                     <exclude reference="yqF-Xx-Eov"/>
+                    <exclude reference="Gnw-IU-eAv"/>
+                    <exclude reference="vld-X4-7HM"/>
+                    <exclude reference="5Im-pE-Mwf"/>
+                    <exclude reference="pma-4M-xX0"/>
+                    <exclude reference="phO-He-tkS"/>
+                    <exclude reference="ttV-Y6-YpZ"/>
                 </mask>
             </variation>
             <variation key="heightClass=regular-widthClass=compact">
@@ -152,14 +152,14 @@
                     <include reference="Wgl-fL-Bxc"/>
                 </mask>
                 <mask key="constraints">
-                    <include reference="Gnw-IU-eAv"/>
-                    <include reference="vld-X4-7HM"/>
-                    <include reference="phO-He-tkS"/>
-                    <include reference="ttV-Y6-YpZ"/>
-                    <include reference="5Im-pE-Mwf"/>
-                    <include reference="pma-4M-xX0"/>
                     <include reference="69i-OP-bUI"/>
                     <include reference="yqF-Xx-Eov"/>
+                    <include reference="Gnw-IU-eAv"/>
+                    <include reference="vld-X4-7HM"/>
+                    <include reference="5Im-pE-Mwf"/>
+                    <include reference="pma-4M-xX0"/>
+                    <include reference="phO-He-tkS"/>
+                    <include reference="ttV-Y6-YpZ"/>
                 </mask>
             </variation>
         </view>

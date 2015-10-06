@@ -74,8 +74,8 @@
                     <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     <nil key="highlightedColor"/>
                 </label>
-                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zyj-EI-z6d">
-                    <rect key="frame" x="363" y="547" width="44" height="44.5"/>
+                <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zyj-EI-z6d">
+                    <rect key="frame" x="363" y="547" width="44" height="45"/>
                     <animations/>
                     <constraints>
                         <constraint firstAttribute="width" constant="44" id="14U-wL-ZT1"/>

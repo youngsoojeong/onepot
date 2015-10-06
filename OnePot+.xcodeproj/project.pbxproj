@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		261D52D11BC4307B00111027 /* RankViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 261D52CF1BC4307B00111027 /* RankViewController.m */; settings = {ASSET_TAGS = (); }; };
+		261D52D21BC4307B00111027 /* RankViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 261D52D01BC4307B00111027 /* RankViewController.xib */; settings = {ASSET_TAGS = (); }; };
+		261D52D61BC43BCD00111027 /* TabContents2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 261D52D41BC43BCD00111027 /* TabContents2ViewController.m */; settings = {ASSET_TAGS = (); }; };
+		261D52D71BC43BCD00111027 /* TabContents2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 261D52D51BC43BCD00111027 /* TabContents2ViewController.xib */; settings = {ASSET_TAGS = (); }; };
 		A2037E901B7CC3F10030E911 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A2037E8F1B7CC3F10030E911 /* main.m */; };
 		A2037E931B7CC3F10030E911 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A2037E921B7CC3F10030E911 /* AppDelegate.m */; };
 		A2037E961B7CC3F10030E911 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2037E951B7CC3F10030E911 /* ViewController.m */; };
@@ -137,6 +141,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		261D52CE1BC4307B00111027 /* RankViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RankViewController.h; sourceTree = "<group>"; };
+		261D52CF1BC4307B00111027 /* RankViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RankViewController.m; sourceTree = "<group>"; };
+		261D52D01BC4307B00111027 /* RankViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RankViewController.xib; sourceTree = "<group>"; };
+		261D52D31BC43BCD00111027 /* TabContents2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabContents2ViewController.h; sourceTree = "<group>"; };
+		261D52D41BC43BCD00111027 /* TabContents2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabContents2ViewController.m; sourceTree = "<group>"; };
+		261D52D51BC43BCD00111027 /* TabContents2ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TabContents2ViewController.xib; sourceTree = "<group>"; };
 		A2037E8A1B7CC3F10030E911 /* OnePot+.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OnePot+.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2037E8E1B7CC3F10030E911 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A2037E8F1B7CC3F10030E911 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -472,6 +482,8 @@
 				A2C605371BC3FA3100F76F5A /* RecommendViewController.m */,
 				A25566AF1BC402AF0020BCAC /* SearchViewController.h */,
 				A25566B01BC402AF0020BCAC /* SearchViewController.m */,
+				261D52CE1BC4307B00111027 /* RankViewController.h */,
+				261D52CF1BC4307B00111027 /* RankViewController.m */,
 			);
 			name = ViewController;
 			sourceTree = "<group>";
@@ -483,6 +495,8 @@
 				A21760F91B7E7A2800CFF5E7 /* TabBarViewControllerViewController.m */,
 				A21760FB1B7E7A2800CFF5E7 /* TabContentViewController.h */,
 				A21760FC1B7E7A2800CFF5E7 /* TabContentViewController.m */,
+				261D52D31BC43BCD00111027 /* TabContents2ViewController.h */,
+				261D52D41BC43BCD00111027 /* TabContents2ViewController.m */,
 			);
 			name = Feeds;
 			sourceTree = "<group>";
@@ -790,11 +804,13 @@
 				A2CB58341B7E2FB8006A31B7 /* SettingViewController.xib */,
 				A21760FA1B7E7A2800CFF5E7 /* TabBarViewControllerViewController.xib */,
 				A21760FD1B7E7A2800CFF5E7 /* TabContentViewController.xib */,
+				261D52D51BC43BCD00111027 /* TabContents2ViewController.xib */,
 				A2595A361B82EBD400C1A993 /* signinViewController.xib */,
 				A242FBC01B84B2C2005E5F67 /* SimpleTableCell.xib */,
 				A242FBC51B84D00B005E5F67 /* feedcellTableViewCell.xib */,
 				A2C605381BC3FA3100F76F5A /* RecommendViewController.xib */,
 				A25566B11BC402AF0020BCAC /* SearchViewController.xib */,
+				261D52D01BC4307B00111027 /* RankViewController.xib */,
 			);
 			name = xib;
 			sourceTree = "<group>";
@@ -884,6 +900,7 @@
 				A2DA90C51B7E2D24002E4E97 /* RecipeViewController.xib in Resources */,
 				A21761031B7E7A2800CFF5E7 /* TabContentViewController.xib in Resources */,
 				A2C6053A1BC3FA3100F76F5A /* RecommendViewController.xib in Resources */,
+				261D52D71BC43BCD00111027 /* TabContents2ViewController.xib in Resources */,
 				A21761011B7E7A2800CFF5E7 /* TabBarViewControllerViewController.xib in Resources */,
 				A2CB58361B7E2FB8006A31B7 /* SettingViewController.xib in Resources */,
 				A2DBEBD31B7CE1740021FC62 /* ProfileViewController.xib in Resources */,
@@ -898,6 +915,7 @@
 				A2037E9B1B7CC3F10030E911 /* Images.xcassets in Resources */,
 				A2DBEBDE1B7CE9F40021FC62 /* LoginViewController.xib in Resources */,
 				A2037EBE1B7CC4F50030E911 /* LeftMenuViewController.xib in Resources */,
+				261D52D21BC4307B00111027 /* RankViewController.xib in Resources */,
 				A29ECE271B7FCD4300479866 /* editViewController.xib in Resources */,
 				A29ECE2C1B7FF1F800479866 /* postViewController.xib in Resources */,
 				A242FBC71B84D00B005E5F67 /* feedcellTableViewCell.xib in Resources */,
@@ -945,6 +963,7 @@
 				A21761611B7E7AA200CFF5E7 /* MDCalendarDateHeader.m in Sources */,
 				A21445EF1B7F2FEC0042DF44 /* signViewController.m in Sources */,
 				A2037E961B7CC3F10030E911 /* ViewController.m in Sources */,
+				261D52D61BC43BCD00111027 /* TabContents2ViewController.m in Sources */,
 				A21761831B7E7AA200CFF5E7 /* MDSliderTickMarksView.m in Sources */,
 				A21761781B7E7AA200CFF5E7 /* MDTabBarViewController.m in Sources */,
 				A217617B1B7E7AA200CFF5E7 /* MDToast.m in Sources */,
@@ -994,6 +1013,7 @@
 				A21761731B7E7AA200CFF5E7 /* MDRippleLayer.m in Sources */,
 				A217615E1B7E7AA200CFF5E7 /* AutoResizeTextView.m in Sources */,
 				A25566B21BC402AF0020BCAC /* SearchViewController.m in Sources */,
+				261D52D11BC4307B00111027 /* RankViewController.m in Sources */,
 				A21761841B7E7AA200CFF5E7 /* MDSuggestPopupView.m in Sources */,
 				A2595A1C1B82DA8200C1A993 /* TGPhotoViewController.m in Sources */,
 				A2595A371B82EBD400C1A993 /* signinViewController.m in Sources */,

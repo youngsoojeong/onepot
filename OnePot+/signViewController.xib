@@ -238,6 +238,10 @@
             </variation>
             <point key="canvasLocation" x="399" y="467"/>
         </view>
+        <pageViewController autoresizesArchivedViewToFullSize="NO" transitionStyle="pageCurl" navigationOrientation="horizontal" spineLocation="min" id="kcP-Ap-d0a">
+            <point key="canvasLocation" x="997" y="500"/>
+        </pageViewController>
+        <barButtonItem style="plain" systemItem="flexibleSpace" id="gbA-Kg-0l6"/>
     </objects>
     <resources>
         <image name="Back Arrow" width="13" height="22"/>

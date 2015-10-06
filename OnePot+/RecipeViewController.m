@@ -10,6 +10,7 @@
 #import "iOSUILib/MDTabBarViewController.h"
 #import "TabContentViewController.h"
 #import "RecommendViewController.h"
+#import "RankViewController.h"
 
 @interface RecipeViewController ()<
     MDTabBarViewControllerDelegate>
@@ -88,6 +89,11 @@
                        
                        ];
     [recipeViewController setItems:names];
+    [recipeViewController.view setBackgroundColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1]];
+    [recipeViewController.view.subviews[0] setBackgroundColor:[UIColor whiteColor]];
+    
+    [recipeViewController.view.subviews[1] setBackgroundColor:[UIColor clearColor]];
+    [recipeViewController setItems:names];
 }
 
 
@@ -106,12 +112,22 @@
             
         });
         return controller;
-    }else{
+    }else if(index==1){
         
         
         TabContentViewController *controller =
         
         [[TabContentViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
+            
+        });
+        
+        /* Library code */
+        //self.shyNavBarManager.scrollView = controller.tableView;
+        return controller;
+    }else{
+        RankViewController *controller =
+        
+        [[RankViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
             
         });
         
