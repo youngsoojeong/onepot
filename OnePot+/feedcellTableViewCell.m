@@ -38,5 +38,22 @@
     [self.likeBtn setBackgroundImage:[UIImage imageNamed:@"likefillbtn"]forState:UIControlStateNormal];
 
 }
-
+-(IBAction)buttonDownload:(id)sender{
+    UIAlertView *alert = [[UIAlertView alloc]initWithTitle:@"Down Recipe"
+                                                   message:@"100point for download this recipe."
+                                                  delegate:self
+                                         cancelButtonTitle:@"NO"    /* nil 로 지정할 경우 cancel button 없음 */
+                                         otherButtonTitles:@"YES", nil];
+    
+    // alert창을 띄우는 method는 show이다.
+    [alert show];
+    
+    
+    
+    
+    /*[[SlideNavigationController sharedInstance] popAllAndSwitchToViewController:[[LoginViewController alloc] init] withCompletion:^{
+     
+     }];*/
+}
 @end
+

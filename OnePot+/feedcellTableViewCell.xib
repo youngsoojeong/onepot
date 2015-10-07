@@ -94,6 +94,9 @@
                         <state key="normal" backgroundImage="downBtnpt">
                             <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                         </state>
+                        <connections>
+                            <action selector="buttonDownload:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="svc-oQ-RTm"/>
+                        </connections>
                     </button>
                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J3l-6q-jag">
                         <rect key="frame" x="86" y="202" width="24" height="24"/>
@@ -169,6 +172,7 @@
                 </constraints>
             </tableViewCellContentView>
             <animations/>
+            <color key="tintColor" red="0.95294117649999999" green="0.41960784309999999" blue="0.41960784309999999" alpha="1" colorSpace="calibratedRGB"/>
             <connections>
                 <outlet property="feedtitleLabel" destination="OSf-4U-6jo" id="hGj-5B-tDo"/>
                 <outlet property="likeBtn" destination="7by-kt-GTL" id="Zyr-Kg-cTt"/>
