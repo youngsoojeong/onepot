@@ -21,6 +21,7 @@
 // THE SOFTWARE.
 
 #import <UIKit/UIKit.h>
+#import "SlideNavigationController.h"
 
 @interface TabContentViewController : UIViewController<UITableViewDelegate, UITableViewDataSource>
 

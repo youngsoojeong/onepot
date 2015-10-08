@@ -33,6 +33,13 @@
         
     }];
 }
+
+-(IBAction)buttonCheck1:(id)sender{
+    [self.buttonCheck1 setBackgroundImage:[UIImage imageNamed:@"CheckOk"]forState:UIControlStateNormal];
+    [self.buttonCheck2 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck3 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+}
+
 /*
 #pragma mark - Navigation
 

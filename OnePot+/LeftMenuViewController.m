@@ -69,9 +69,11 @@
     [self.buttonSetting setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
 }
 
-- (IBAction)buttonRecipe:(id)sender {    [[SlideNavigationController sharedInstance] popAllAndSwitchToViewController:[[RecipeViewController alloc] init] withCompletion:^{
+- (IBAction)buttonRecipe:(id)sender {
+    [[SlideNavigationController sharedInstance] popAllAndSwitchToViewController:[[RecipeViewController alloc] init] withCompletion:^{
     
-}];
+        }];
+    
     [self.buttonRecipe setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1] forState:UIControlStateNormal];
     [self.buttonProfile setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];
     [self.buttonFeeds setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.5] forState:UIControlStateNormal];

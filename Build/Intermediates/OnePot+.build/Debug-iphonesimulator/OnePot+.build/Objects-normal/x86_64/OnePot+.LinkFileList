@@ -19,9 +19,11 @@
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/MDCalendarCell.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/FeedViewController.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/TGCameraGridView.o
+/Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/RecommendViewController.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/MDCalendarDateHeader.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/signViewController.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/ViewController.o
+/Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/TabContents2ViewController.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/MDSliderTickMarksView.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/MDTabBarViewController.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/MDToast.o
@@ -31,6 +33,7 @@
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/TGCamera.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/TGCameraFocus.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/MDCircularProgressLayer.o
+/Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/DetailViewController.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/MDProgressLayer.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/AppDelegate.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/LeftMenuViewController.o
@@ -70,6 +73,8 @@
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/MDDatePicker.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/MDRippleLayer.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/AutoResizeTextView.o
+/Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/SearchViewController.o
+/Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/RankViewController.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/MDSuggestPopupView.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/TGPhotoViewController.o
 /Users/dudtnwjd/onepot-ios/Build/Intermediates/OnePot+.build/Debug-iphonesimulator/OnePot+.build/Objects-normal/x86_64/signinViewController.o

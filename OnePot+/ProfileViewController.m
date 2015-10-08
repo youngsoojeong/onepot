@@ -34,6 +34,12 @@
     // Dispose of any resources that can be recreated.
 }
 
+
+
+-(IBAction)onClickRecipe:(id)sender{
+    [self.ImageSection setImage:[UIImage imageNamed:@"recipeImage"]];
+}
+
 #pragma mark SlideNavigationControllerDelegate
 
 - (BOOL)slideNavigationControllerShouldDisplayLeftMenu

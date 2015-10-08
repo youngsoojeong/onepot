@@ -11,4 +11,10 @@
 
 @interface ProfileViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UIButton *buttonFood;
+
+@property (weak, nonatomic) IBOutlet UIImageView *ImageSection;
+
+-(IBAction)onClickRecipe:(id)sender;
+
 @end

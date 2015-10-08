@@ -113,6 +113,8 @@
 		A2C6053A1BC3FA3100F76F5A /* RecommendViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2C605381BC3FA3100F76F5A /* RecommendViewController.xib */; settings = {ASSET_TAGS = (); }; };
 		A2CB58351B7E2FB8006A31B7 /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2CB58331B7E2FB8006A31B7 /* SettingViewController.m */; };
 		A2CB58361B7E2FB8006A31B7 /* SettingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2CB58341B7E2FB8006A31B7 /* SettingViewController.xib */; };
+		A2CBFEB41BC6B09C0079BDEB /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2CBFEB21BC6B09B0079BDEB /* DetailViewController.m */; settings = {ASSET_TAGS = (); }; };
+		A2CBFEB51BC6B09C0079BDEB /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2CBFEB31BC6B09B0079BDEB /* DetailViewController.xib */; settings = {ASSET_TAGS = (); }; };
 		A2DA90C41B7E2D24002E4E97 /* RecipeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2DA90C21B7E2D24002E4E97 /* RecipeViewController.m */; };
 		A2DA90C51B7E2D24002E4E97 /* RecipeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2DA90C31B7E2D24002E4E97 /* RecipeViewController.xib */; };
 		A2DBEBB71B7CDD440021FC62 /* SlideNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2DBEBB61B7CDD440021FC62 /* SlideNavigationController.m */; };
@@ -338,6 +340,9 @@
 		A2CB58321B7E2FB8006A31B7 /* SettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingViewController.h; sourceTree = "<group>"; };
 		A2CB58331B7E2FB8006A31B7 /* SettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingViewController.m; sourceTree = "<group>"; };
 		A2CB58341B7E2FB8006A31B7 /* SettingViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingViewController.xib; sourceTree = "<group>"; };
+		A2CBFEB11BC6B09B0079BDEB /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		A2CBFEB21BC6B09B0079BDEB /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		A2CBFEB31BC6B09B0079BDEB /* DetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailViewController.xib; sourceTree = "<group>"; };
 		A2DA90C11B7E2D24002E4E97 /* RecipeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeViewController.h; sourceTree = "<group>"; };
 		A2DA90C21B7E2D24002E4E97 /* RecipeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeViewController.m; sourceTree = "<group>"; };
 		A2DA90C31B7E2D24002E4E97 /* RecipeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RecipeViewController.xib; sourceTree = "<group>"; };
@@ -461,7 +466,6 @@
 				A2DBEBCF1B7CE1740021FC62 /* ProfileViewController.h */,
 				A21761041B7E7A2D00CFF5E7 /* Feeds */,
 				A2DBEBD41B7CE30B0021FC62 /* FeedViewController.h */,
-				A2DBEBD51B7CE30B0021FC62 /* FeedViewController.m */,
 				A2DA90C11B7E2D24002E4E97 /* RecipeViewController.h */,
 				A2DA90C21B7E2D24002E4E97 /* RecipeViewController.m */,
 				A2CB58321B7E2FB8006A31B7 /* SettingViewController.h */,
@@ -491,11 +495,14 @@
 		A21761041B7E7A2D00CFF5E7 /* Feeds */ = {
 			isa = PBXGroup;
 			children = (
+				A2CBFEB11BC6B09B0079BDEB /* DetailViewController.h */,
+				A2CBFEB21BC6B09B0079BDEB /* DetailViewController.m */,
 				A21760F81B7E7A2800CFF5E7 /* TabBarViewControllerViewController.h */,
 				A21760F91B7E7A2800CFF5E7 /* TabBarViewControllerViewController.m */,
 				A21760FB1B7E7A2800CFF5E7 /* TabContentViewController.h */,
 				A21760FC1B7E7A2800CFF5E7 /* TabContentViewController.m */,
 				261D52D31BC43BCD00111027 /* TabContents2ViewController.h */,
+				A2DBEBD51B7CE30B0021FC62 /* FeedViewController.m */,
 				261D52D41BC43BCD00111027 /* TabContents2ViewController.m */,
 			);
 			name = Feeds;
@@ -811,6 +818,7 @@
 				A2C605381BC3FA3100F76F5A /* RecommendViewController.xib */,
 				A25566B11BC402AF0020BCAC /* SearchViewController.xib */,
 				261D52D01BC4307B00111027 /* RankViewController.xib */,
+				A2CBFEB31BC6B09B0079BDEB /* DetailViewController.xib */,
 			);
 			name = xib;
 			sourceTree = "<group>";
@@ -897,6 +905,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A2595A321B82DA8200C1A993 /* TGCameraViewController.bundle in Resources */,
+				A2CBFEB51BC6B09C0079BDEB /* DetailViewController.xib in Resources */,
 				A2DA90C51B7E2D24002E4E97 /* RecipeViewController.xib in Resources */,
 				A21761031B7E7A2800CFF5E7 /* TabContentViewController.xib in Resources */,
 				A2C6053A1BC3FA3100F76F5A /* RecommendViewController.xib in Resources */,
@@ -973,6 +982,7 @@
 				A2595A1F1B82DA8200C1A993 /* TGCamera.m in Sources */,
 				A2595A221B82DA8200C1A993 /* TGCameraFocus.m in Sources */,
 				A217617D1B7E7AA200CFF5E7 /* MDCircularProgressLayer.m in Sources */,
+				A2CBFEB41BC6B09C0079BDEB /* DetailViewController.m in Sources */,
 				A217617F1B7E7AA200CFF5E7 /* MDProgressLayer.m in Sources */,
 				A2037E931B7CC3F10030E911 /* AppDelegate.m in Sources */,
 				A2037EBD1B7CC4F50030E911 /* LeftMenuViewController.m in Sources */,

@@ -9,5 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface SearchViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIButton *buttonCheck1;
+@property (weak, nonatomic) IBOutlet UIButton *buttonCheck2;
+@property (weak, nonatomic) IBOutlet UIButton *buttonCheck3;
 
 @end

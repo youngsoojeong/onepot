@@ -22,6 +22,7 @@
 
 #import "TabContentViewController.h"
 #import "feedcellTableViewCell.h"
+#import "DetailViewController.h"
 
 @interface TabContentViewController ()
 
@@ -48,17 +49,28 @@
 
 }
 
+- (void)viewWillAppear:(BOOL)animated {
+    [[SlideNavigationController sharedInstance].navigationBar setTranslucent:YES];
+    [[SlideNavigationController sharedInstance].navigationBar setBackgroundImage:[UIImage new] forBarMetrics:UIBarMetricsDefault];
+    [[SlideNavigationController sharedInstance].navigationBar setOpaque:YES];
+    [SlideNavigationController sharedInstance].navigationBar.hidden = NO;
+    
+    [SlideNavigationController sharedInstance].navigationBar.barTintColor = [UIColor blackColor];
+    [SlideNavigationController sharedInstance].navigationBar.tintColor = [UIColor blackColor];
+    [[SlideNavigationController sharedInstance].navigationBar
+     setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor blackColor]}];
+}
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
     return [profileImage count];
     
 }
-
+/*
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
 {
     return 78;
-}
+}*/
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
@@ -79,6 +91,17 @@
     return cell;
 }
 
+
+
+- (void)tableView:(UITableView *)tableUIView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    
+    NSString *selected =[titleData objectAtIndex:indexPath.row];
+    if ([selected isEqualToString:@"Vegitable Mixed Rice"]) {
+        DetailViewController *v = [[DetailViewController alloc] init];
+        [[SlideNavigationController sharedInstance] pushViewController:v animated:YES];
+    }
+}
 
 
 - (void)didReceiveMemoryWarning {
