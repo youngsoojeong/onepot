@@ -33,7 +33,24 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+/** Time Button**/
+-(IBAction)onClickTime:(id)sender{
+    [self.ImageSection setImage:[UIImage imageNamed:@"Timeline"]];
+    //Time Lime Button바꾸기
+    [self.timeBack setBackgroundColor:[UIColor colorWithRed:1 green:.4 blue:.4 alpha:1]];
+    [self.timeLabel setTextColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1]];
+    [self.timeNum setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1] forState:UIControlStateNormal];
+    //Foo Button 바꾸기
+    [self.foodBack setBackgroundColor:[UIColor colorWithRed:.96 green:.96 blue:.96 alpha:1]];
+    [self.foodLabel setTextColor:[UIColor colorWithRed:.33 green:.33 blue:.33 alpha:1]];
+    [self.foodNum setTitleColor:[UIColor colorWithRed:.33 green:.33 blue:.33 alpha:1] forState:UIControlStateNormal];
+    //pic Button바꾸기
+    [self.picBack setBackgroundColor:[UIColor colorWithRed:.96 green:.96 blue:.96 alpha:1]];
+    [self.picLabel setTextColor:[UIColor colorWithRed:.33 green:.33 blue:.33 alpha:1]];
+    [self.picNum setTitleColor:[UIColor colorWithRed:.33 green:.33 blue:.33 alpha:1] forState:UIControlStateNormal];
 
+
+}
 
 /**FoodButton**/
 -(IBAction)onClickRecipe:(id)sender{

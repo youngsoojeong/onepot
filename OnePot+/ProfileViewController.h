@@ -35,7 +35,7 @@
 
 
 /**FoodButoon**/
-
+-(IBAction)onClickTime:(id)sender;
 -(IBAction)onClickRecipe:(id)sender;
 
 @end
