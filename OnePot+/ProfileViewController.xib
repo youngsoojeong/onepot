@@ -472,6 +472,9 @@
                             <include reference="llf-YI-jCe"/>
                         </mask>
                     </variation>
+                    <connections>
+                        <action selector="onClickPic:" destination="-1" eventType="touchUpInside" id="5wH-QD-quk"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zRQ-tS-gkp">
                     <rect key="frame" x="-23" y="-15" width="46" height="30"/>

@@ -34,7 +34,10 @@
 @property (weak, nonatomic) IBOutlet UIButton *picBack;
 
 
+
+
 /**FoodButoon**/
+-(IBAction)onClickPic:(id)sender;
 -(IBAction)onClickTime:(id)sender;
 -(IBAction)onClickRecipe:(id)sender;
 
