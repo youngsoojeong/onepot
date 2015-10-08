@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		s+iLBIebN8o8LsNKHipW7YJM62k=
+		zCiF/LHfHP/K49VhQrbZskrmblI=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
@@ -102,7 +102,7 @@
 		</dict>
 		<key>DetailViewController.nib</key>
 		<data>
-		K4/p9KGwViTPnSoqp75KHjdrPCA=
+		QWwOjOIMBVN4w9fW6FulKqkf6aw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -119,6 +119,10 @@
 		<key>MainViewController.nib</key>
 		<data>
 		clfL+4pD4PM9NC4G5nCXfgjIWgk=
+		</data>
+		<key>NewsViewController.nib</key>
+		<data>
+		e0exNPcv9zhPXwgC2cCLuW4fCCs=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -146,7 +150,7 @@
 		</data>
 		<key>SettingViewController.nib</key>
 		<data>
-		PmgirJmDpQHe5w5pOQ7sYk45WmE=
+		HSbT2ZMMtNleEvH+18BdEMkLcJc=
 		</data>
 		<key>SimpleTableCell.nib</key>
 		<data>
@@ -198,7 +202,7 @@
 		</data>
 		<key>TabContents2ViewController.nib</key>
 		<data>
-		BX/JOqe20bLT5s0j4e4Vsm8bAB0=
+		2jcShXDsOry+xORBhQfVIXqQ4G8=
 		</data>
 		<key>editViewController.nib</key>
 		<data>
@@ -210,7 +214,7 @@
 		</data>
 		<key>feedcellTableViewCell.nib</key>
 		<data>
-		aLbYdzLXqbNvwyWrAWpbG56fcos=
+		InDtS/7tl6AcpPL6arCW26EpWas=
 		</data>
 		<key>postViewController.nib</key>
 		<data>
@@ -285,7 +289,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		s+iLBIebN8o8LsNKHipW7YJM62k=
+		zCiF/LHfHP/K49VhQrbZskrmblI=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
@@ -325,7 +329,7 @@
 		</dict>
 		<key>DetailViewController.nib</key>
 		<data>
-		K4/p9KGwViTPnSoqp75KHjdrPCA=
+		QWwOjOIMBVN4w9fW6FulKqkf6aw=
 		</data>
 		<key>LeftMenuViewController.nib</key>
 		<data>
@@ -338,6 +342,10 @@
 		<key>MainViewController.nib</key>
 		<data>
 		clfL+4pD4PM9NC4G5nCXfgjIWgk=
+		</data>
+		<key>NewsViewController.nib</key>
+		<data>
+		e0exNPcv9zhPXwgC2cCLuW4fCCs=
 		</data>
 		<key>ProfileViewController.nib</key>
 		<data>
@@ -361,7 +369,7 @@
 		</data>
 		<key>SettingViewController.nib</key>
 		<data>
-		PmgirJmDpQHe5w5pOQ7sYk45WmE=
+		HSbT2ZMMtNleEvH+18BdEMkLcJc=
 		</data>
 		<key>SimpleTableCell.nib</key>
 		<data>
@@ -413,7 +421,7 @@
 		</data>
 		<key>TabContents2ViewController.nib</key>
 		<data>
-		BX/JOqe20bLT5s0j4e4Vsm8bAB0=
+		2jcShXDsOry+xORBhQfVIXqQ4G8=
 		</data>
 		<key>editViewController.nib</key>
 		<data>
@@ -425,7 +433,7 @@
 		</data>
 		<key>feedcellTableViewCell.nib</key>
 		<data>
-		aLbYdzLXqbNvwyWrAWpbG56fcos=
+		InDtS/7tl6AcpPL6arCW26EpWas=
 		</data>
 		<key>postViewController.nib</key>
 		<data>

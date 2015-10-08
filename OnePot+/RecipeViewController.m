@@ -11,6 +11,7 @@
 #import "TabContentViewController.h"
 #import "RecommendViewController.h"
 #import "RankViewController.h"
+#import "NewsViewController.h"
 
 @interface RecipeViewController ()<
     MDTabBarViewControllerDelegate>
@@ -115,9 +116,9 @@
     }else if(index==1){
         
         
-        TabContentViewController *controller =
+        NewsViewController *controller =
         
-        [[TabContentViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
+        [[NewsViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
             
         });
         
