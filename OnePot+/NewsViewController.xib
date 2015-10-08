@@ -103,7 +103,7 @@
                                         <constraint firstAttribute="height" constant="69" id="2oK-Ov-Vr0"/>
                                         <constraint firstAttribute="width" constant="381" id="G2p-IB-ngz"/>
                                     </constraints>
-                                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                     <nil key="highlightedColor"/>
                                     <variation key="default">
@@ -234,7 +234,7 @@
                                         <constraint firstAttribute="height" constant="69" id="QDb-QU-kwS"/>
                                         <constraint firstAttribute="width" constant="381" id="TTb-g5-wOD"/>
                                     </constraints>
-                                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                     <nil key="highlightedColor"/>
                                     <variation key="default">
@@ -382,7 +382,7 @@
                                     </constraints>
                                     <string key="text">Want yo Cut Down on JunkFood?
 10 Easy Ways to Improve Your Diet.</string>
-                                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                     <nil key="highlightedColor"/>
                                     <variation key="default">
