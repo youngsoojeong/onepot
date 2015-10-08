@@ -90,10 +90,9 @@
                        
                        ];
     [recipeViewController setItems:names];
-    [recipeViewController.view setBackgroundColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1]];
-    [recipeViewController.view.subviews[0] setBackgroundColor:[UIColor colorWithRed:.96 green:.96 blue:.96 alpha:1]];
     
-    [recipeViewController.view.subviews[1] setBackgroundColor:[UIColor clearColor]];
+    [recipeViewController.view.subviews[0] setBackgroundColor:[UIColor colorWithRed:.98 green:.98 blue:.98 alpha:1]];
+    
     [recipeViewController setItems:names];
 }
 

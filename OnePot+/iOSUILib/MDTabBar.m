@@ -443,7 +443,7 @@
 
   [self addSubview:scrollView];
 
-  [self setBackgroundColor:[UIColor colorWithRed:0.1 green:0.1 blue:0.1 alpha:.1]];
+  [self setBackgroundColor:[UIColor colorWithRed:.98 green:.98 blue:.98 alpha:1]];
   self.layer.shadowColor = [UIColor blackColor].CGColor;
   self.layer.shadowRadius = 0;
   self.layer.shadowOpacity = 0;
