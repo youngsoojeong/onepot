@@ -33,11 +33,64 @@
         
     }];
 }
+/**Pot 부분 필터 아이콘 변경하기 **/
 
 -(IBAction)buttonCheck1:(id)sender{
     [self.buttonCheck1 setBackgroundImage:[UIImage imageNamed:@"CheckOk"]forState:UIControlStateNormal];
     [self.buttonCheck2 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
     [self.buttonCheck3 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+}
+- (IBAction)buttonCheck2:(id)sender {
+    [self.buttonCheck1 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck2 setBackgroundImage:[UIImage imageNamed:@"CheckOk"]forState:UIControlStateNormal];
+    [self.buttonCheck3 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+}
+- (IBAction)buttonCheck3:(id)sender {
+    [self.buttonCheck1 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck2 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck3 setBackgroundImage:[UIImage imageNamed:@"CheckOk"]forState:UIControlStateNormal];
+}
+/** Time 부분 필터 아이콘 변경하기 **/
+- (IBAction)buttonCheck4:(id)sender {
+    [self.buttonCheck4 setBackgroundImage:[UIImage imageNamed:@"CheckOk"]forState:UIControlStateNormal];
+    [self.buttonCheck5 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck6 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+}
+
+- (IBAction)buttonCheck5:(id)sender {
+    [self.buttonCheck4 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck5 setBackgroundImage:[UIImage imageNamed:@"CheckOk"]forState:UIControlStateNormal];
+    [self.buttonCheck6 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+
+}
+
+- (IBAction)buttonCheck6:(id)sender {
+    [self.buttonCheck4 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck5 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck6 setBackgroundImage:[UIImage imageNamed:@"CheckOk"]forState:UIControlStateNormal];
+
+}
+
+
+/** Food Type부분 필터 아이콘 변경하기 **/
+
+- (IBAction)buttonCheck7:(id)sender {
+    [self.buttonCheck7 setBackgroundImage:[UIImage imageNamed:@"CheckOk"]forState:UIControlStateNormal];
+    [self.buttonCheck8 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck9 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+
+}
+
+- (IBAction)buttonCheck8:(id)sender {
+    [self.buttonCheck7 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck8 setBackgroundImage:[UIImage imageNamed:@"CheckOk"]forState:UIControlStateNormal];
+    [self.buttonCheck9 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+}
+
+- (IBAction)buttonCheck9:(id)sender {
+    [self.buttonCheck7 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck8 setBackgroundImage:[UIImage imageNamed:@"CheckNo"]forState:UIControlStateNormal];
+    [self.buttonCheck9 setBackgroundImage:[UIImage imageNamed:@"CheckOk"]forState:UIControlStateNormal];
 }
 
 /*

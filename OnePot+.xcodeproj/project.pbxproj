@@ -457,29 +457,19 @@
 			isa = PBXGroup;
 			children = (
 				A2037EBA1B7CC4F50030E911 /* LeftMenuViewController.h */,
-				A2DBEBD01B7CE1740021FC62 /* ProfileViewController.m */,
 				A2037EBB1B7CC4F50030E911 /* LeftMenuViewController.m */,
-				A2DBEBDA1B7CE9F40021FC62 /* LoginViewController.h */,
-				A2DBEBDB1B7CE9F40021FC62 /* LoginViewController.m */,
-				A2DBEBCA1B7CDF210021FC62 /* MainViewController.h */,
-				A2DBEBCB1B7CDF210021FC62 /* MainViewController.m */,
+				A2CBFEB61BC6B5CF0079BDEB /* Intro */,
+				A2CBFEB71BC6B62C0079BDEB /* Main */,
+				A2DBEBD01B7CE1740021FC62 /* ProfileViewController.m */,
 				A2DBEBCF1B7CE1740021FC62 /* ProfileViewController.h */,
+				A2CBFEB11BC6B09B0079BDEB /* DetailViewController.h */,
+				A2CBFEB21BC6B09B0079BDEB /* DetailViewController.m */,
 				A21761041B7E7A2D00CFF5E7 /* Feeds */,
 				A2DBEBD41B7CE30B0021FC62 /* FeedViewController.h */,
 				A2DA90C11B7E2D24002E4E97 /* RecipeViewController.h */,
 				A2DA90C21B7E2D24002E4E97 /* RecipeViewController.m */,
 				A2CB58321B7E2FB8006A31B7 /* SettingViewController.h */,
 				A2CB58331B7E2FB8006A31B7 /* SettingViewController.m */,
-				A21445EC1B7F2FEC0042DF44 /* signViewController.h */,
-				A21445ED1B7F2FEC0042DF44 /* signViewController.m */,
-				A29ECE231B7FCD4300479866 /* editViewController.h */,
-				A29ECE241B7FCD4300479866 /* editViewController.m */,
-				A29ECE281B7FF1F800479866 /* postViewController.h */,
-				A29ECE291B7FF1F800479866 /* postViewController.m */,
-				A2595A341B82EBD400C1A993 /* signinViewController.h */,
-				A2595A351B82EBD400C1A993 /* signinViewController.m */,
-				A242FBBE1B84B2C2005E5F67 /* SimpleTableCell.h */,
-				A242FBBF1B84B2C2005E5F67 /* SimpleTableCell.m */,
 				A242FBC31B84D00B005E5F67 /* feedcellTableViewCell.h */,
 				A242FBC41B84D00B005E5F67 /* feedcellTableViewCell.m */,
 				A2C605361BC3FA3100F76F5A /* RecommendViewController.h */,
@@ -495,8 +485,6 @@
 		A21761041B7E7A2D00CFF5E7 /* Feeds */ = {
 			isa = PBXGroup;
 			children = (
-				A2CBFEB11BC6B09B0079BDEB /* DetailViewController.h */,
-				A2CBFEB21BC6B09B0079BDEB /* DetailViewController.m */,
 				A21760F81B7E7A2800CFF5E7 /* TabBarViewControllerViewController.h */,
 				A21760F91B7E7A2800CFF5E7 /* TabBarViewControllerViewController.m */,
 				A21760FB1B7E7A2800CFF5E7 /* TabContentViewController.h */,
@@ -776,6 +764,56 @@
 			name = PercentageDoughnutView;
 			sourceTree = "<group>";
 		};
+		A2CBFEB61BC6B5CF0079BDEB /* Intro */ = {
+			isa = PBXGroup;
+			children = (
+				A2DBEBDA1B7CE9F40021FC62 /* LoginViewController.h */,
+				A2DBEBDB1B7CE9F40021FC62 /* LoginViewController.m */,
+				A21445EC1B7F2FEC0042DF44 /* signViewController.h */,
+				A21445ED1B7F2FEC0042DF44 /* signViewController.m */,
+				A2595A341B82EBD400C1A993 /* signinViewController.h */,
+				A2595A351B82EBD400C1A993 /* signinViewController.m */,
+			);
+			name = Intro;
+			sourceTree = "<group>";
+		};
+		A2CBFEB71BC6B62C0079BDEB /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				A2DBEBCA1B7CDF210021FC62 /* MainViewController.h */,
+				A2DBEBCB1B7CDF210021FC62 /* MainViewController.m */,
+				A29ECE231B7FCD4300479866 /* editViewController.h */,
+				A29ECE241B7FCD4300479866 /* editViewController.m */,
+				A242FBBE1B84B2C2005E5F67 /* SimpleTableCell.h */,
+				A242FBBF1B84B2C2005E5F67 /* SimpleTableCell.m */,
+				A29ECE291B7FF1F800479866 /* postViewController.m */,
+				A29ECE281B7FF1F800479866 /* postViewController.h */,
+			);
+			name = Main;
+			sourceTree = "<group>";
+		};
+		A2CBFEB81BC6B6B80079BDEB /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				A2DBEBCC1B7CDF210021FC62 /* MainViewController.xib */,
+				A29ECE251B7FCD4300479866 /* editViewController.xib */,
+				A242FBC01B84B2C2005E5F67 /* SimpleTableCell.xib */,
+				A29ECE2A1B7FF1F800479866 /* postViewController.xib */,
+			);
+			name = Main;
+			sourceTree = "<group>";
+		};
+		A2CBFEB91BC6B6CE0079BDEB /* Intro */ = {
+			isa = PBXGroup;
+			children = (
+				A2037E9C1B7CC3F10030E911 /* LaunchScreen.xib */,
+				A2DBEBDC1B7CE9F40021FC62 /* LoginViewController.xib */,
+				A21445EE1B7F2FEC0042DF44 /* signViewController.xib */,
+				A2595A361B82EBD400C1A993 /* signinViewController.xib */,
+			);
+			name = Intro;
+			sourceTree = "<group>";
+		};
 		A2DBEBB41B7CDD340021FC62 /* Slide */ = {
 			isa = PBXGroup;
 			children = (
@@ -799,21 +837,15 @@
 		A2DBEBD91B7CE7240021FC62 /* xib */ = {
 			isa = PBXGroup;
 			children = (
-				A2037E9C1B7CC3F10030E911 /* LaunchScreen.xib */,
-				A2DBEBDC1B7CE9F40021FC62 /* LoginViewController.xib */,
-				A21445EE1B7F2FEC0042DF44 /* signViewController.xib */,
 				A2037EBC1B7CC4F50030E911 /* LeftMenuViewController.xib */,
-				A2DBEBCC1B7CDF210021FC62 /* MainViewController.xib */,
-				A29ECE251B7FCD4300479866 /* editViewController.xib */,
-				A29ECE2A1B7FF1F800479866 /* postViewController.xib */,
+				A2CBFEB91BC6B6CE0079BDEB /* Intro */,
+				A2CBFEB81BC6B6B80079BDEB /* Main */,
 				A2DBEBD11B7CE1740021FC62 /* ProfileViewController.xib */,
 				A2DA90C31B7E2D24002E4E97 /* RecipeViewController.xib */,
 				A2CB58341B7E2FB8006A31B7 /* SettingViewController.xib */,
 				A21760FA1B7E7A2800CFF5E7 /* TabBarViewControllerViewController.xib */,
 				A21760FD1B7E7A2800CFF5E7 /* TabContentViewController.xib */,
 				261D52D51BC43BCD00111027 /* TabContents2ViewController.xib */,
-				A2595A361B82EBD400C1A993 /* signinViewController.xib */,
-				A242FBC01B84B2C2005E5F67 /* SimpleTableCell.xib */,
 				A242FBC51B84D00B005E5F67 /* feedcellTableViewCell.xib */,
 				A2C605381BC3FA3100F76F5A /* RecommendViewController.xib */,
 				A25566B11BC402AF0020BCAC /* SearchViewController.xib */,

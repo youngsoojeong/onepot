@@ -100,6 +100,10 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>DetailViewController.nib</key>
+		<data>
+		aIAUI94CH/hrU56oVSx+1Ps9O54=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		NbGy4QnfUTSavT4CKUnuOEX4vMI=
@@ -130,23 +134,23 @@
 		</data>
 		<key>RecipeViewController.nib</key>
 		<data>
-		3DRGG2v7LGPogRqPSE6XWe8sX5A=
+		SGbSKcef6hGT93xRthM4YV6aErI=
 		</data>
 		<key>RecommendViewController.nib</key>
 		<data>
-		tzQ9HaOE9nHZPyywWTdbNY3fFKs=
+		LVv+rpPafWKvw1NTAbn/DsiRYUE=
 		</data>
 		<key>SearchViewController.nib</key>
 		<data>
-		DbWyGTvc6p6umBPTFxoZVkGoewY=
+		p4HhoZeioXy7xX+B5pM544dH6gU=
 		</data>
 		<key>SettingViewController.nib</key>
 		<data>
-		HD11bbWW8UBXezWm80F6JsvybxY=
+		PmgirJmDpQHe5w5pOQ7sYk45WmE=
 		</data>
 		<key>SimpleTableCell.nib</key>
 		<data>
-		2evcMqH0YNn9zu8ZBToquIo2IPg=
+		5l+bBGwD5Y6TffS5lEiF/b12Dlg=
 		</data>
 		<key>TGCameraViewController.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
@@ -186,7 +190,7 @@
 		</dict>
 		<key>TabBarViewControllerViewController.nib</key>
 		<data>
-		7hbjzWr13+zYNykbY4LcthOwzyY=
+		fu7TLzLCCOs811ummcY8GeP5Hro=
 		</data>
 		<key>TabContentViewController.nib</key>
 		<data>
@@ -194,11 +198,11 @@
 		</data>
 		<key>TabContents2ViewController.nib</key>
 		<data>
-		C1PtptLCKz7SSSen/6845ezmHig=
+		BX/JOqe20bLT5s0j4e4Vsm8bAB0=
 		</data>
 		<key>editViewController.nib</key>
 		<data>
-		5TMkgBFkfjv8Cx1p69VVW/LITc0=
+		Tz6wLJSTuPqPq4CIvh/2GKXNXoY=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -206,7 +210,7 @@
 		</data>
 		<key>feedcellTableViewCell.nib</key>
 		<data>
-		k12WFVgcYmm0HVhPifU1fw2oJnE=
+		aLbYdzLXqbNvwyWrAWpbG56fcos=
 		</data>
 		<key>postViewController.nib</key>
 		<data>
@@ -319,6 +323,10 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>DetailViewController.nib</key>
+		<data>
+		aIAUI94CH/hrU56oVSx+1Ps9O54=
+		</data>
 		<key>LeftMenuViewController.nib</key>
 		<data>
 		QzqtE6CGk6vTFuc9dYDUe5tTYjc=
@@ -341,23 +349,23 @@
 		</data>
 		<key>RecipeViewController.nib</key>
 		<data>
-		3DRGG2v7LGPogRqPSE6XWe8sX5A=
+		SGbSKcef6hGT93xRthM4YV6aErI=
 		</data>
 		<key>RecommendViewController.nib</key>
 		<data>
-		tzQ9HaOE9nHZPyywWTdbNY3fFKs=
+		LVv+rpPafWKvw1NTAbn/DsiRYUE=
 		</data>
 		<key>SearchViewController.nib</key>
 		<data>
-		DbWyGTvc6p6umBPTFxoZVkGoewY=
+		p4HhoZeioXy7xX+B5pM544dH6gU=
 		</data>
 		<key>SettingViewController.nib</key>
 		<data>
-		HD11bbWW8UBXezWm80F6JsvybxY=
+		PmgirJmDpQHe5w5pOQ7sYk45WmE=
 		</data>
 		<key>SimpleTableCell.nib</key>
 		<data>
-		2evcMqH0YNn9zu8ZBToquIo2IPg=
+		5l+bBGwD5Y6TffS5lEiF/b12Dlg=
 		</data>
 		<key>TGCameraViewController.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
@@ -397,7 +405,7 @@
 		</dict>
 		<key>TabBarViewControllerViewController.nib</key>
 		<data>
-		7hbjzWr13+zYNykbY4LcthOwzyY=
+		fu7TLzLCCOs811ummcY8GeP5Hro=
 		</data>
 		<key>TabContentViewController.nib</key>
 		<data>
@@ -405,11 +413,11 @@
 		</data>
 		<key>TabContents2ViewController.nib</key>
 		<data>
-		C1PtptLCKz7SSSen/6845ezmHig=
+		BX/JOqe20bLT5s0j4e4Vsm8bAB0=
 		</data>
 		<key>editViewController.nib</key>
 		<data>
-		5TMkgBFkfjv8Cx1p69VVW/LITc0=
+		Tz6wLJSTuPqPq4CIvh/2GKXNXoY=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -417,7 +425,7 @@
 		</data>
 		<key>feedcellTableViewCell.nib</key>
 		<data>
-		k12WFVgcYmm0HVhPifU1fw2oJnE=
+		aLbYdzLXqbNvwyWrAWpbG56fcos=
 		</data>
 		<key>postViewController.nib</key>
 		<data>

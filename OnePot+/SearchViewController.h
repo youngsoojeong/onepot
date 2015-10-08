@@ -12,5 +12,11 @@
 @property (weak, nonatomic) IBOutlet UIButton *buttonCheck1;
 @property (weak, nonatomic) IBOutlet UIButton *buttonCheck2;
 @property (weak, nonatomic) IBOutlet UIButton *buttonCheck3;
+@property (weak, nonatomic) IBOutlet UIButton *buttonCheck4;
+@property (weak, nonatomic) IBOutlet UIButton *buttonCheck5;
+@property (weak, nonatomic) IBOutlet UIButton *buttonCheck6;
+@property (weak, nonatomic) IBOutlet UIButton *buttonCheck7;
+@property (weak, nonatomic) IBOutlet UIButton *buttonCheck8;
+@property (weak, nonatomic) IBOutlet UIButton *buttonCheck9;
 
 @end

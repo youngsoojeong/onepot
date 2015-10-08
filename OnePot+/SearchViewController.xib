@@ -9,6 +9,12 @@
                 <outlet property="buttonCheck1" destination="VpP-Km-ZHJ" id="v4s-a7-J7L"/>
                 <outlet property="buttonCheck2" destination="3yD-ab-gIM" id="um7-En-vTr"/>
                 <outlet property="buttonCheck3" destination="FT7-EU-bDq" id="u4U-Sj-d25"/>
+                <outlet property="buttonCheck4" destination="ypQ-xK-vmZ" id="gmP-d6-D24"/>
+                <outlet property="buttonCheck5" destination="wyH-pO-df8" id="dft-uY-l7I"/>
+                <outlet property="buttonCheck6" destination="35n-zB-amJ" id="2n6-8J-tO3"/>
+                <outlet property="buttonCheck7" destination="lgZ-pE-jh3" id="y0o-1c-V90"/>
+                <outlet property="buttonCheck8" destination="89U-mo-8UZ" id="aQB-Q2-87i"/>
+                <outlet property="buttonCheck9" destination="kiT-u6-zBu" id="DjV-o0-bsR"/>
                 <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
             </connections>
         </placeholder>
@@ -305,6 +311,9 @@
                             <include reference="Rzu-1w-ghW"/>
                         </mask>
                     </variation>
+                    <connections>
+                        <action selector="buttonCheck2:" destination="-1" eventType="touchUpInside" id="5DP-z9-mme"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FT7-EU-bDq">
                     <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -326,6 +335,9 @@
                             <include reference="gek-TR-Kxc"/>
                         </mask>
                     </variation>
+                    <connections>
+                        <action selector="buttonCheck3:" destination="-1" eventType="touchUpInside" id="Da5-9d-wRC"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ypQ-xK-vmZ">
                     <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -347,6 +359,9 @@
                             <include reference="tMb-S4-Aru"/>
                         </mask>
                     </variation>
+                    <connections>
+                        <action selector="buttonCheck4:" destination="-1" eventType="touchUpInside" id="UlJ-3W-YiQ"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wyH-pO-df8">
                     <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -368,6 +383,9 @@
                             <include reference="kSd-AW-CLZ"/>
                         </mask>
                     </variation>
+                    <connections>
+                        <action selector="buttonCheck5:" destination="-1" eventType="touchUpInside" id="YCA-AO-mtS"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="35n-zB-amJ">
                     <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -389,6 +407,9 @@
                             <include reference="tE2-9r-KOF"/>
                         </mask>
                     </variation>
+                    <connections>
+                        <action selector="buttonCheck6:" destination="-1" eventType="touchUpInside" id="IzZ-PE-nxl"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lgZ-pE-jh3">
                     <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -410,6 +431,9 @@
                             <include reference="aGf-c0-dJZ"/>
                         </mask>
                     </variation>
+                    <connections>
+                        <action selector="buttonCheck7:" destination="-1" eventType="touchUpInside" id="2ou-Cv-sRQ"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="89U-mo-8UZ">
                     <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -431,6 +455,9 @@
                             <include reference="az8-cD-Clu"/>
                         </mask>
                     </variation>
+                    <connections>
+                        <action selector="buttonCheck8:" destination="-1" eventType="touchUpInside" id="S4M-L5-tUg"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kiT-u6-zBu">
                     <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -452,6 +479,9 @@
                             <include reference="Lh0-0y-sGK"/>
                         </mask>
                     </variation>
+                    <connections>
+                        <action selector="buttonCheck9:" destination="-1" eventType="touchUpInside" id="4Iq-Cr-Ctz"/>
+                    </connections>
                 </button>
                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="WaterPot+" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="THA-J7-CJv">
                     <rect key="frame" x="-42" y="-21" width="42" height="21"/>
