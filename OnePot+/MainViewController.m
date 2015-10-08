@@ -55,10 +55,9 @@
     [self.labelCountDown setText:[NSString stringWithFormat:@"%02d:%02d",min,sec]];
     
     if(currentValue<=0){
-        [self.labelTimeremain setTextColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:.2]];
+        [self.labelTimeremain setTextColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1]];
 
-        [self.labelCountDown setTextColor:[UIColor colorWithRed:1 green:.32 blue:0 alpha:1]];
-        [self.labelTimeremain setText:@"set cooking time"];
+        [self.labelTimeremain setText:@"SET COOK TIME"];
         self.percentageDoughnut.linePercentage          = 0.08;
         [self reset];
         UIAlertView *alert = [[UIAlertView alloc]initWithTitle:@"Finish Cook"
@@ -99,8 +98,6 @@
 {
     
     [self.buttonStartcount setTitle:@"Start Cook" forState:UIControlStateNormal];
-    [self.buttonStartcount setBackgroundColor:[UIColor colorWithRed:.2 green:.2 blue:.2 alpha:.2]];
-    [self.buttonStartcount setTitleColor:[UIColor colorWithRed:1 green:.32 blue:0 alpha:1] forState:UIControlStateNormal];
     [self.buttonRecipe setHidden:NO];
 }
 
@@ -110,7 +107,6 @@
     shouldStopCountDown = NO;
     [self.buttonRecipe setHidden:YES];
     [self.buttonStartcount setTitle:@"Pause Cook" forState:UIControlStateNormal];
-    [self.buttonStartcount setBackgroundColor:[UIColor colorWithRed:1 green:.32 blue:(0) alpha:1]];
     [self.buttonStartcount setTitleColor:[UIColor colorWithRed:1 green:1 blue:1 alpha:1] forState:UIControlStateNormal];
     self.percentageDoughnut.linePercentage =1;
         
@@ -128,13 +124,11 @@
     }];
     }else{
         shouldStopCountDown = YES;
-        [self.labelTimeremain setText:@"time remaining"];
+        [self.labelTimeremain setText:@"TIME REMAINING"];
         [self.labelTimeremain setTextColor:[UIColor whiteColor]];
         [self.labelCountDown setTextColor:[UIColor whiteColor]];
 
         [self.buttonStartcount setTitle:@"Start Cook" forState:UIControlStateNormal];
-        [self.buttonStartcount setBackgroundColor:[UIColor colorWithRed:.2 green:.2 blue:.2 alpha:.2]];
-        [self.buttonStartcount setTitleColor:[UIColor colorWithRed:1 green:.32 blue:0 alpha:1] forState:UIControlStateNormal];
         self.percentageDoughnut.linePercentage          = 0.08;
         [MCUtil runOnAuxiliaryQueue:^{
             while (currentValue >= 1 && !shouldStopCountDown)

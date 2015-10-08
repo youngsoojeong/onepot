@@ -51,7 +51,7 @@
                         <action selector="buttonSave:" destination="-1" eventType="touchUpInside" id="AD5-QJ-znS"/>
                     </connections>
                 </button>
-                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="z56-G4-rbh">
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bgCamera" translatesAutoresizingMaskIntoConstraints="NO" id="z56-G4-rbh">
                     <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
                     <animations/>
                     <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
@@ -147,7 +147,7 @@
                 <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" highlighted="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Title Text" clearsOnBeginEditing="YES" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="Ckc-2y-R61">
                     <rect key="frame" x="0.0" y="-30" width="97" height="30"/>
                     <animations/>
-                    <color key="tintColor" red="1" green="0.36470588240000001" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="tintColor" red="0.98039215690000003" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="calibratedRGB"/>
                     <constraints>
                         <constraint firstAttribute="height" constant="29" id="Ux5-NK-zG5">
                             <variation key="heightClass=regular-widthClass=compact" constant="30"/>
@@ -190,7 +190,7 @@
                 <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Subtitle Text" clearsOnBeginEditing="YES" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="VPP-mq-uak">
                     <rect key="frame" x="0.0" y="-30" width="97" height="30"/>
                     <animations/>
-                    <color key="tintColor" red="1" green="0.36470588240000001" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="tintColor" red="0.98039215690000003" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="calibratedRGB"/>
                     <constraints>
                         <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="200" id="2E1-82-Yoa"/>
                         <constraint firstAttribute="height" constant="15" id="9Mh-rI-GZd"/>
@@ -242,7 +242,7 @@
                         <constraint firstAttribute="width" constant="110" id="ede-WR-YpQ"/>
                     </constraints>
                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                    <color key="textColor" red="1" green="0.36470588240000001" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="textColor" red="0.98039215690000003" green="0.3921568627" blue="0.3921568627" alpha="1" colorSpace="calibratedRGB"/>
                     <nil key="highlightedColor"/>
                     <variation key="default">
                         <mask key="constraints">
@@ -546,7 +546,7 @@
                     </constraints>
                     <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences" spellCheckingType="no" keyboardAppearance="alert"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences" spellCheckingType="no"/>
                     <variation key="default">
                         <mask key="constraints">
                             <exclude reference="X5A-w9-cyC"/>
@@ -951,6 +951,7 @@
     <resources>
         <image name="albumIcon" width="20" height="20"/>
         <image name="alignIcon" width="20" height="20"/>
+        <image name="bgCamera" width="414" height="414"/>
         <image name="buttonPhoto" width="34" height="34"/>
         <image name="cameraIcon" width="20" height="20"/>
         <image name="facebook" width="24" height="24"/>
@@ -959,7 +960,7 @@
         <image name="grayline" width="375" height="2"/>
         <image name="lineOrage" width="28" height="2"/>
         <image name="moduleIcon" width="14" height="14"/>
-        <image name="orageBG" width="375" height="64"/>
+        <image name="orageBG" width="414" height="71"/>
         <image name="pinterest" width="24" height="24"/>
         <image name="shareIcon" width="14" height="14"/>
         <image name="tempIcon" width="14" height="14"/>

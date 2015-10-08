@@ -2,18 +2,18 @@
   "images" : [
     {
       "idiom" : "universal",
-      "scale" : "1x",
-      "filename" : "orageBG.png"
+      "filename" : "orageBG.png",
+      "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "scale" : "2x",
-      "filename" : "orageBG@2x.png"
+      "filename" : "orageBG@2x.png",
+      "scale" : "2x"
     },
     {
       "idiom" : "universal",
-      "scale" : "3x",
-      "filename" : "orageBG@3x.png"
+      "filename" : "orageBG@3x.png",
+      "scale" : "3x"
     }
   ],
   "info" : {
