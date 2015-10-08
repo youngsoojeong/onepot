@@ -23,12 +23,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Initialize table data
-    titleData = [NSArray arrayWithObjects:@"Vegitable Mixed Rice", @"Beef Steak", @"Potato Pie", @"Hamburger", @"Ham and Egg Sandwich", @"Creme Brelee", @"White Chocolate Donut", @"Starbucks Coffee", @"Vegetable Curry", @"Instant Noodle with Egg", @"Noodle with BBQ Pork", @"Japanese Noodle with Pork", @"Green Tea", @"Thai Shrimp Cake", @"Angry Birds Cake", nil];
+    titleData = [NSArray arrayWithObjects:@"Angry Birds Cake", @"Beef Steak", @"Potato Pie", @"Creme Brelee", @"White Chocolate Donut", @"Vegetable Curry", @"Noodle with BBQ Pork", @"Green Tea", @"Thai Shrimp Cake", @"Vegitable Mixed Rice", nil];
     // Do any additional setup after loading the view from its nib.
-    subtitleData = [NSArray arrayWithObjects:@"My normal breakfast", @"For Today lunch", @"With your girlfriend", @"when you are hungry", @"daily desert", @"sweet desert", @"with americano", @"starbucks coffee beans", @"healthy food", @"I love noodle", @"Delicious Noodle", @"Sometimes I drink", @"My mother's favorite", @"For my girlfriend", @"for my love", nil];
+    subtitleData = [NSArray arrayWithObjects:@"My normal breakfast", @"For Today lunch", @"With your girlfriend", @"sweet desert", @"with americano", @"healthy food", @"Sometimes I drink", @"My mother's favorite", @"For my girlfriend",@"my favorite Rice", nil];
     
-    thumbnailImage = [NSArray arrayWithObjects:@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3", nil];
-    profileImage = [NSArray arrayWithObjects: @"userprofile1", @"userprofile2", @"userprofile3", @"userprofile4", @"userprofile5", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", nil];
+    thumbnailImage = [NSArray arrayWithObjects:@"Angry", @"foodthumb2", @"foodthumb3",@"CremeBrelee", @"WhiteChocolateDonut",@"VegetableCurry", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb1", nil];
+    profileImage = [NSArray arrayWithObjects: @"Profile", @"pro14", @"pro15", @"userprofile4", @"pro17", @"pro13", @"pro12", @"pro11", @"pro18", @"userprofile1", nil];
     
     
 }
@@ -40,10 +40,6 @@
     
 }
 
-- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
-{
-    return 78;
-}
 
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath

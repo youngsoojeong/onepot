@@ -73,7 +73,6 @@
   NSArray *names = @[
     @"All",
     @"Rice Pot",
-    @"Mocha Pot",
     @"Fryer Pot",
     @"Water Pot",
    
@@ -137,9 +136,9 @@
     }else{
         
         
-        TabContentViewController *controller =
+        TabContents2ViewController *controller =
         
-        [[TabContentViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
+        [[TabContents2ViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
             
         });
         
