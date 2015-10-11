@@ -9,4 +9,6 @@ dependencies: /Users/dudtnwjd/onepot-ios/OnePot+/AppDelegate.m \
   /Users/dudtnwjd/onepot-ios/OnePot+/MCNewCustomLayer.h \
   /Users/dudtnwjd/onepot-ios/OnePot+/MCSliceLayer.h \
   /Users/dudtnwjd/onepot-ios/OnePot+/MCNewCustomLayeredView.h \
-  /Users/dudtnwjd/onepot-ios/OnePot+/LoginViewController.h
+  /Users/dudtnwjd/onepot-ios/OnePot+/LoginViewController.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/APPViewController.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/APPChildViewController.h

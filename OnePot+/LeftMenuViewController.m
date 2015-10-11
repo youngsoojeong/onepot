@@ -14,6 +14,7 @@
 #import "SettingViewController.h"
 #import "LoginViewController.h"
 #import "TabBarViewControllerViewController.h"
+#import "APPViewController.h"
 @interface LeftMenuViewController ()
 
 @end
@@ -112,7 +113,7 @@
 {
     // OK 버튼을 눌렀을 때 버튼Index가 1로 들어감
     if (buttonIndex == 1) {
-        [[SlideNavigationController sharedInstance] popAllAndSwitchToViewController:[[LoginViewController alloc] init] withCompletion:^{
+        [[SlideNavigationController sharedInstance] popAllAndSwitchToViewController:[[APPViewController alloc] init] withCompletion:^{
             
         }];
     }

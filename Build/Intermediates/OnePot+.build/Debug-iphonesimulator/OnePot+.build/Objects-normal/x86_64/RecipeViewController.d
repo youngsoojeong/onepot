@@ -5,4 +5,5 @@ dependencies: /Users/dudtnwjd/onepot-ios/OnePot+/RecipeViewController.m \
   /Users/dudtnwjd/onepot-ios/OnePot+/iOSUILib/MDTabBar.h \
   /Users/dudtnwjd/onepot-ios/OnePot+/TabContentViewController.h \
   /Users/dudtnwjd/onepot-ios/OnePot+/RecommendViewController.h \
-  /Users/dudtnwjd/onepot-ios/OnePot+/RankViewController.h
+  /Users/dudtnwjd/onepot-ios/OnePot+/RankViewController.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/NewsViewController.h

@@ -102,7 +102,7 @@
                     <constraints>
                         <constraint firstAttribute="height" constant="44" id="o07-Mj-OXc"/>
                     </constraints>
-                    <color key="barTintColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <color key="barTintColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
                     <textInputTraits key="textInputTraits"/>
                     <variation key="default">
                         <mask key="constraints">

@@ -132,6 +132,10 @@
 		A2DBEBD71B7CE30B0021FC62 /* FeedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2DBEBD51B7CE30B0021FC62 /* FeedViewController.m */; };
 		A2DBEBDD1B7CE9F40021FC62 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2DBEBDB1B7CE9F40021FC62 /* LoginViewController.m */; };
 		A2DBEBDE1B7CE9F40021FC62 /* LoginViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2DBEBDC1B7CE9F40021FC62 /* LoginViewController.xib */; };
+		A2FB37941BCA3CDE00BB90C9 /* APPChildViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2FB37921BCA3CDE00BB90C9 /* APPChildViewController.m */; settings = {ASSET_TAGS = (); }; };
+		A2FB37951BCA3CDE00BB90C9 /* APPChildViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2FB37931BCA3CDE00BB90C9 /* APPChildViewController.xib */; settings = {ASSET_TAGS = (); }; };
+		A2FB37991BCA3F1F00BB90C9 /* APPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2FB37971BCA3F1F00BB90C9 /* APPViewController.m */; settings = {ASSET_TAGS = (); }; };
+		A2FB379A1BCA3F1F00BB90C9 /* APPViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2FB37981BCA3F1F00BB90C9 /* APPViewController.xib */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -375,6 +379,12 @@
 		A2DBEBDA1B7CE9F40021FC62 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		A2DBEBDB1B7CE9F40021FC62 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
 		A2DBEBDC1B7CE9F40021FC62 /* LoginViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoginViewController.xib; sourceTree = "<group>"; };
+		A2FB37911BCA3CDE00BB90C9 /* APPChildViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APPChildViewController.h; sourceTree = "<group>"; };
+		A2FB37921BCA3CDE00BB90C9 /* APPChildViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APPChildViewController.m; sourceTree = "<group>"; };
+		A2FB37931BCA3CDE00BB90C9 /* APPChildViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = APPChildViewController.xib; sourceTree = "<group>"; };
+		A2FB37961BCA3F1F00BB90C9 /* APPViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APPViewController.h; sourceTree = "<group>"; };
+		A2FB37971BCA3F1F00BB90C9 /* APPViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APPViewController.m; sourceTree = "<group>"; };
+		A2FB37981BCA3F1F00BB90C9 /* APPViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = APPViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -484,6 +494,12 @@
 				261D52CF1BC4307B00111027 /* RankViewController.m */,
 				A2CBFEBA1BC6D1D60079BDEB /* NewsViewController.h */,
 				A2CBFEBB1BC6D1D60079BDEB /* NewsViewController.m */,
+				A2FB37911BCA3CDE00BB90C9 /* APPChildViewController.h */,
+				A2FB37921BCA3CDE00BB90C9 /* APPChildViewController.m */,
+				A2FB37931BCA3CDE00BB90C9 /* APPChildViewController.xib */,
+				A2FB37961BCA3F1F00BB90C9 /* APPViewController.h */,
+				A2FB37971BCA3F1F00BB90C9 /* APPViewController.m */,
+				A2FB37981BCA3F1F00BB90C9 /* APPViewController.xib */,
 			);
 			name = ViewController;
 			sourceTree = "<group>";
@@ -948,6 +964,7 @@
 				A2CBFEB51BC6B09C0079BDEB /* DetailViewController.xib in Resources */,
 				A2DA90C51B7E2D24002E4E97 /* RecipeViewController.xib in Resources */,
 				A21761031B7E7A2800CFF5E7 /* TabContentViewController.xib in Resources */,
+				A2FB379A1BCA3F1F00BB90C9 /* APPViewController.xib in Resources */,
 				A2C6053A1BC3FA3100F76F5A /* RecommendViewController.xib in Resources */,
 				261D52D71BC43BCD00111027 /* TabContents2ViewController.xib in Resources */,
 				A21761011B7E7A2800CFF5E7 /* TabBarViewControllerViewController.xib in Resources */,
@@ -955,6 +972,7 @@
 				A2CBFEBE1BC6D1D60079BDEB /* NewsViewController.xib in Resources */,
 				A2DBEBD31B7CE1740021FC62 /* ProfileViewController.xib in Resources */,
 				A2595A2F1B82DA8200C1A993 /* TGCameraAuthorizationViewController.xib in Resources */,
+				A2FB37951BCA3CDE00BB90C9 /* APPChildViewController.xib in Resources */,
 				A242FBC21B84B2C2005E5F67 /* SimpleTableCell.xib in Resources */,
 				A2595A381B82EBD400C1A993 /* signinViewController.xib in Resources */,
 				A2037E9E1B7CC3F10030E911 /* LaunchScreen.xib in Resources */,
@@ -1029,12 +1047,14 @@
 				A2037E931B7CC3F10030E911 /* AppDelegate.m in Sources */,
 				A2037EBD1B7CC4F50030E911 /* LeftMenuViewController.m in Sources */,
 				A21761861B7E7AA200CFF5E7 /* UIView+MDExtension.m in Sources */,
+				A2FB37941BCA3CDE00BB90C9 /* APPChildViewController.m in Sources */,
 				A2595A201B82DA8200C1A993 /* TGCameraColor.m in Sources */,
 				A21761711B7E7AA200CFF5E7 /* MDCollectionViewCell.m in Sources */,
 				A2367C411B7E77B900816DA2 /* MCPercentageDoughnutView.m in Sources */,
 				A2595A1D1B82DA8200C1A993 /* TGAlbum.m in Sources */,
 				A21761691B7E7AA200CFF5E7 /* NSDate+MDExtension.m in Sources */,
 				A2595A211B82DA8200C1A993 /* TGCameraFlash.m in Sources */,
+				A2FB37991BCA3F1F00BB90C9 /* APPViewController.m in Sources */,
 				A217616F1B7E7AA200CFF5E7 /* UIViewHelper.m in Sources */,
 				A2595A281B82DA8200C1A993 /* TGCameraFocusView.m in Sources */,
 				A21761631B7E7AA200CFF5E7 /* MDCalendarYearSelector.m in Sources */,

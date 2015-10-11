@@ -69,6 +69,7 @@
     [self.picNum setTitleColor:[UIColor colorWithRed:.33 green:.33 blue:.33 alpha:1] forState:UIControlStateNormal];
 }
 -(IBAction)onClickPic:(id)sender{
+    [self.ImageSection setImage:[UIImage imageNamed:@"foodLine"]];
     //Time Line Button바꾸기
     [self.timeBack setBackgroundColor:[UIColor colorWithRed:.96 green:.96 blue:.96 alpha:1]];
     [self.timeLabel setTextColor:[UIColor colorWithRed:.33 green:.33 blue:.33 alpha:1]];

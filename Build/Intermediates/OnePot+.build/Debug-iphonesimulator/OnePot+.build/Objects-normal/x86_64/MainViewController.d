@@ -15,4 +15,6 @@ dependencies: /Users/dudtnwjd/onepot-ios/OnePot+/MainViewController.m \
   /Users/dudtnwjd/onepot-ios/OnePot+/TGCameraViewController/Classes/Helper/TGAssetsLibrary.h \
   /Users/dudtnwjd/onepot-ios/OnePot+/TGCameraViewController/Classes/Model/TGAssetImageFile.h \
   /Users/dudtnwjd/onepot-ios/OnePot+/TGCameraViewController/Classes/Control/TGCameraNavigationController.h \
-  /Users/dudtnwjd/onepot-ios/OnePot+/TGCameraViewController/Classes/Helper/TGCameraColor.h
+  /Users/dudtnwjd/onepot-ios/OnePot+/TGCameraViewController/Classes/Helper/TGCameraColor.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/APPViewController.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/APPChildViewController.h

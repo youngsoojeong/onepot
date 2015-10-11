@@ -7,6 +7,8 @@
 //
 
 #import "RecommendViewController.h"
+#import "NewsViewController.h"
+#import "editViewController.h"
 
 @interface RecommendViewController ()
 
@@ -22,6 +24,17 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+- (IBAction)buttonNews:(id)sender {
+    
+}
+- (IBAction)buttonRecipe:(id)sender {
+    [self setModalTransitionStyle:UIModalTransitionStyleCoverVertical];
+    [self presentViewController:[[editViewController alloc] init] animated:YES completion:nil];
+    /*[[SlideNavigationController sharedInstance] popAllAndSwitchToViewController:[[editViewController alloc] init] withCompletion:^{
+     
+     }];*/
+    
 }
 
 /*

@@ -9,7 +9,8 @@
 #import "MainViewController.h"
 #import "editViewController.h"
 #import "postViewController.h"
-
+#import "APPViewController.h"
+#import "APPChildViewController.h"
 @interface MainViewController (){
     int currentValue;
     bool shouldStopCountDown;
@@ -150,6 +151,14 @@
         
     }];*/
     
+}
+- (IBAction)buttonSlide:(id)sender {
+    
+    [self setModalTransitionStyle:UIModalTransitionStyleCoverVertical];
+    [self presentViewController:[[APPViewController alloc] init] animated:YES completion:nil];
+    /*[[SlideNavigationController sharedInstance] popAllAndSwitchToViewController:[[editViewController alloc] init] withCompletion:^{
+     
+     }];*/
 }
 
 -(IBAction)buttonNextpot:(id)sender{

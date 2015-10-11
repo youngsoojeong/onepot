@@ -13,4 +13,5 @@ dependencies: /Users/dudtnwjd/onepot-ios/OnePot+/LeftMenuViewController.m \
   /Users/dudtnwjd/onepot-ios/OnePot+/RecipeViewController.h \
   /Users/dudtnwjd/onepot-ios/OnePot+/SettingViewController.h \
   /Users/dudtnwjd/onepot-ios/OnePot+/LoginViewController.h \
-  /Users/dudtnwjd/onepot-ios/OnePot+/TabBarViewControllerViewController.h
+  /Users/dudtnwjd/onepot-ios/OnePot+/TabBarViewControllerViewController.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/APPViewController.h

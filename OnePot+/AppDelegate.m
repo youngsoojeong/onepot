@@ -10,6 +10,8 @@
 #import "LeftMenuViewController.h"
 #import "MainViewController.h"
 #import "LoginViewController.h"
+#import "APPViewController.h"
+#import "APPChildViewController.h"
 @interface AppDelegate ()
 
 @end
@@ -23,7 +25,7 @@
    //                                                          bundle: nil];
     
     
-    [[SlideNavigationController alloc] initWithRootViewController:[[LoginViewController alloc] init]];
+    [[SlideNavigationController alloc] initWithRootViewController:[[APPViewController alloc] init]];
     //[self setLeftSlideNavigation];
     
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
