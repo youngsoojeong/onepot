@@ -10,7 +10,7 @@
 		</data>
 		<key>APPViewController.nib</key>
 		<data>
-		7Ye774mYNevi0gSITz0ueagFvfI=
+		ILjCXIoawHA7nCcYX9zS5AaIrww=
 		</data>
 		<key>AppIcon29x29~ipad.png</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		9G1Ojj/tUIUHndr6Ka7LXA0bbT8=
+		A3aN5S6XCyER7XP6wSXq5qGchrk=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
@@ -110,7 +110,7 @@
 		</dict>
 		<key>DetailViewController.nib</key>
 		<data>
-		ibDNanEfBJvRoR/mcLdfiSW7AxY=
+		4Q1CMc8wTYVclfkpiMJLXRNsldw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>NewsViewController.nib</key>
 		<data>
-		NXdIF7xRxrAnWcY+HINiWcWRvZ8=
+		VAWz5HvNJThX4cy1TwQFDf1TtRs=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -210,7 +210,15 @@
 		</data>
 		<key>TabContents2ViewController.nib</key>
 		<data>
-		6Nl8Qh1pPL8ArXC8bBbppX4lung=
+		ILssKgawmYTlL6+R5skTgIO+CxY=
+		</data>
+		<key>TabContents3ViewController.nib</key>
+		<data>
+		3LhV+/98pbL4YEZIrKmHyrNW6Ck=
+		</data>
+		<key>TabContents4ViewController.nib</key>
+		<data>
+		lVjkC7wQ1sMjdpMtb1Z972M8Xx4=
 		</data>
 		<key>editViewController.nib</key>
 		<data>
@@ -222,11 +230,11 @@
 		</data>
 		<key>feedcellTableViewCell.nib</key>
 		<data>
-		PCyPatY3fzruAAco6Z1KlQ/6UlI=
+		nDmP8kV3HAuEhNrp5Q7Q4MrDqQY=
 		</data>
 		<key>postViewController.nib</key>
 		<data>
-		i8FcxyoudfK6MjUWuv/M1HHIA5Q=
+		CboACuuNU5fKuUVWZQQfF+rFk+Q=
 		</data>
 		<key>signViewController.nib</key>
 		<data>
@@ -245,7 +253,7 @@
 		</data>
 		<key>APPViewController.nib</key>
 		<data>
-		7Ye774mYNevi0gSITz0ueagFvfI=
+		ILjCXIoawHA7nCcYX9zS5AaIrww=
 		</data>
 		<key>AppIcon29x29~ipad.png</key>
 		<data>
@@ -305,7 +313,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		9G1Ojj/tUIUHndr6Ka7LXA0bbT8=
+		A3aN5S6XCyER7XP6wSXq5qGchrk=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
@@ -345,7 +353,7 @@
 		</dict>
 		<key>DetailViewController.nib</key>
 		<data>
-		ibDNanEfBJvRoR/mcLdfiSW7AxY=
+		4Q1CMc8wTYVclfkpiMJLXRNsldw=
 		</data>
 		<key>LeftMenuViewController.nib</key>
 		<data>
@@ -361,7 +369,7 @@
 		</data>
 		<key>NewsViewController.nib</key>
 		<data>
-		NXdIF7xRxrAnWcY+HINiWcWRvZ8=
+		VAWz5HvNJThX4cy1TwQFDf1TtRs=
 		</data>
 		<key>ProfileViewController.nib</key>
 		<data>
@@ -437,7 +445,15 @@
 		</data>
 		<key>TabContents2ViewController.nib</key>
 		<data>
-		6Nl8Qh1pPL8ArXC8bBbppX4lung=
+		ILssKgawmYTlL6+R5skTgIO+CxY=
+		</data>
+		<key>TabContents3ViewController.nib</key>
+		<data>
+		3LhV+/98pbL4YEZIrKmHyrNW6Ck=
+		</data>
+		<key>TabContents4ViewController.nib</key>
+		<data>
+		lVjkC7wQ1sMjdpMtb1Z972M8Xx4=
 		</data>
 		<key>editViewController.nib</key>
 		<data>
@@ -449,11 +465,11 @@
 		</data>
 		<key>feedcellTableViewCell.nib</key>
 		<data>
-		PCyPatY3fzruAAco6Z1KlQ/6UlI=
+		nDmP8kV3HAuEhNrp5Q7Q4MrDqQY=
 		</data>
 		<key>postViewController.nib</key>
 		<data>
-		i8FcxyoudfK6MjUWuv/M1HHIA5Q=
+		CboACuuNU5fKuUVWZQQfF+rFk+Q=
 		</data>
 		<key>signViewController.nib</key>
 		<data>

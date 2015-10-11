@@ -6,4 +6,6 @@ dependencies: \
   /Users/dudtnwjd/onepot-ios/OnePot+/iOSUILib/MDTabBar.h \
   /Users/dudtnwjd/onepot-ios/OnePot+/TabContentViewController.h \
   /Users/dudtnwjd/onepot-ios/OnePot+/SearchViewController.h \
-  /Users/dudtnwjd/onepot-ios/OnePot+/TabContents2ViewController.h
+  /Users/dudtnwjd/onepot-ios/OnePot+/TabContents2ViewController.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/TabContents3ViewController.h \
+  /Users/dudtnwjd/onepot-ios/OnePot+/TabContents4ViewController.h

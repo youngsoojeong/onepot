@@ -111,6 +111,10 @@
 		A29ECE2C1B7FF1F800479866 /* postViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A29ECE2A1B7FF1F800479866 /* postViewController.xib */; };
 		A2C605391BC3FA3100F76F5A /* RecommendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2C605371BC3FA3100F76F5A /* RecommendViewController.m */; settings = {ASSET_TAGS = (); }; };
 		A2C6053A1BC3FA3100F76F5A /* RecommendViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2C605381BC3FA3100F76F5A /* RecommendViewController.xib */; settings = {ASSET_TAGS = (); }; };
+		A2C9C4251BCA795700B4AB6F /* TabContents3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2C9C4231BCA795700B4AB6F /* TabContents3ViewController.m */; settings = {ASSET_TAGS = (); }; };
+		A2C9C4261BCA795700B4AB6F /* TabContents3ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2C9C4241BCA795700B4AB6F /* TabContents3ViewController.xib */; settings = {ASSET_TAGS = (); }; };
+		A2C9C42A1BCA7B1300B4AB6F /* TabContents4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2C9C4281BCA7B1300B4AB6F /* TabContents4ViewController.m */; settings = {ASSET_TAGS = (); }; };
+		A2C9C42B1BCA7B1300B4AB6F /* TabContents4ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2C9C4291BCA7B1300B4AB6F /* TabContents4ViewController.xib */; settings = {ASSET_TAGS = (); }; };
 		A2CB58351B7E2FB8006A31B7 /* SettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2CB58331B7E2FB8006A31B7 /* SettingViewController.m */; };
 		A2CB58361B7E2FB8006A31B7 /* SettingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2CB58341B7E2FB8006A31B7 /* SettingViewController.xib */; };
 		A2CBFEB41BC6B09C0079BDEB /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2CBFEB21BC6B09B0079BDEB /* DetailViewController.m */; settings = {ASSET_TAGS = (); }; };
@@ -343,6 +347,12 @@
 		A2C605361BC3FA3100F76F5A /* RecommendViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecommendViewController.h; sourceTree = "<group>"; };
 		A2C605371BC3FA3100F76F5A /* RecommendViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecommendViewController.m; sourceTree = "<group>"; };
 		A2C605381BC3FA3100F76F5A /* RecommendViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RecommendViewController.xib; sourceTree = "<group>"; };
+		A2C9C4221BCA795700B4AB6F /* TabContents3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabContents3ViewController.h; sourceTree = "<group>"; };
+		A2C9C4231BCA795700B4AB6F /* TabContents3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabContents3ViewController.m; sourceTree = "<group>"; };
+		A2C9C4241BCA795700B4AB6F /* TabContents3ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TabContents3ViewController.xib; sourceTree = "<group>"; };
+		A2C9C4271BCA7B1300B4AB6F /* TabContents4ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabContents4ViewController.h; sourceTree = "<group>"; };
+		A2C9C4281BCA7B1300B4AB6F /* TabContents4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabContents4ViewController.m; sourceTree = "<group>"; };
+		A2C9C4291BCA7B1300B4AB6F /* TabContents4ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TabContents4ViewController.xib; sourceTree = "<group>"; };
 		A2CB58321B7E2FB8006A31B7 /* SettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingViewController.h; sourceTree = "<group>"; };
 		A2CB58331B7E2FB8006A31B7 /* SettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingViewController.m; sourceTree = "<group>"; };
 		A2CB58341B7E2FB8006A31B7 /* SettingViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingViewController.xib; sourceTree = "<group>"; };
@@ -509,12 +519,16 @@
 			children = (
 				A21760F81B7E7A2800CFF5E7 /* TabBarViewControllerViewController.h */,
 				A21760F91B7E7A2800CFF5E7 /* TabBarViewControllerViewController.m */,
+				A2DBEBD51B7CE30B0021FC62 /* FeedViewController.m */,
+				A2DBEBD41B7CE30B0021FC62 /* FeedViewController.h */,
 				A21760FB1B7E7A2800CFF5E7 /* TabContentViewController.h */,
 				A21760FC1B7E7A2800CFF5E7 /* TabContentViewController.m */,
 				261D52D31BC43BCD00111027 /* TabContents2ViewController.h */,
-				A2DBEBD51B7CE30B0021FC62 /* FeedViewController.m */,
-				A2DBEBD41B7CE30B0021FC62 /* FeedViewController.h */,
 				261D52D41BC43BCD00111027 /* TabContents2ViewController.m */,
+				A2C9C4221BCA795700B4AB6F /* TabContents3ViewController.h */,
+				A2C9C4231BCA795700B4AB6F /* TabContents3ViewController.m */,
+				A2C9C4271BCA7B1300B4AB6F /* TabContents4ViewController.h */,
+				A2C9C4281BCA7B1300B4AB6F /* TabContents4ViewController.m */,
 			);
 			name = Feeds;
 			sourceTree = "<group>";
@@ -869,6 +883,8 @@
 				A21760FA1B7E7A2800CFF5E7 /* TabBarViewControllerViewController.xib */,
 				A21760FD1B7E7A2800CFF5E7 /* TabContentViewController.xib */,
 				261D52D51BC43BCD00111027 /* TabContents2ViewController.xib */,
+				A2C9C4241BCA795700B4AB6F /* TabContents3ViewController.xib */,
+				A2C9C4291BCA7B1300B4AB6F /* TabContents4ViewController.xib */,
 				A242FBC51B84D00B005E5F67 /* feedcellTableViewCell.xib */,
 				A2C605381BC3FA3100F76F5A /* RecommendViewController.xib */,
 				A25566B11BC402AF0020BCAC /* SearchViewController.xib */,
@@ -966,6 +982,7 @@
 				A21761031B7E7A2800CFF5E7 /* TabContentViewController.xib in Resources */,
 				A2FB379A1BCA3F1F00BB90C9 /* APPViewController.xib in Resources */,
 				A2C6053A1BC3FA3100F76F5A /* RecommendViewController.xib in Resources */,
+				A2C9C42B1BCA7B1300B4AB6F /* TabContents4ViewController.xib in Resources */,
 				261D52D71BC43BCD00111027 /* TabContents2ViewController.xib in Resources */,
 				A21761011B7E7A2800CFF5E7 /* TabBarViewControllerViewController.xib in Resources */,
 				A2CB58361B7E2FB8006A31B7 /* SettingViewController.xib in Resources */,
@@ -986,6 +1003,7 @@
 				261D52D21BC4307B00111027 /* RankViewController.xib in Resources */,
 				A29ECE271B7FCD4300479866 /* editViewController.xib in Resources */,
 				A29ECE2C1B7FF1F800479866 /* postViewController.xib in Resources */,
+				A2C9C4261BCA795700B4AB6F /* TabContents3ViewController.xib in Resources */,
 				A242FBC71B84D00B005E5F67 /* feedcellTableViewCell.xib in Resources */,
 				A2595A301B82DA8200C1A993 /* TGCameraViewController.xib in Resources */,
 				A21445F01B7F2FEC0042DF44 /* signViewController.xib in Resources */,
@@ -1070,6 +1088,7 @@
 				A217616D1B7E7AA200CFF5E7 /* UIColorHelper.m in Sources */,
 				A21761021B7E7A2800CFF5E7 /* TabContentViewController.m in Sources */,
 				A21761851B7E7AA200CFF5E7 /* MDSuggestTableView.m in Sources */,
+				A2C9C42A1BCA7B1300B4AB6F /* TabContents4ViewController.m in Sources */,
 				A21761671B7E7AA200CFF5E7 /* MDTimePickerDialog.m in Sources */,
 				A21761661B7E7AA200CFF5E7 /* MDDatePickerDialog.m in Sources */,
 				A242FBC61B84D00B005E5F67 /* feedcellTableViewCell.m in Sources */,
@@ -1096,6 +1115,7 @@
 				A21761811B7E7AA200CFF5E7 /* MDSliderIcon.m in Sources */,
 				A2DBEBC61B7CDD520021FC62 /* SlideNavigationContorllerAnimatorSlide.m in Sources */,
 				A21761821B7E7AA200CFF5E7 /* MDSliderThumbView.m in Sources */,
+				A2C9C4251BCA795700B4AB6F /* TabContents3ViewController.m in Sources */,
 				A217617A1B7E7AA200CFF5E7 /* MDTextField.m in Sources */,
 				A217617E1B7E7AA200CFF5E7 /* MDLinearProgressLayer.m in Sources */,
 				A2595A231B82DA8200C1A993 /* TGCameraGrid.m in Sources */,

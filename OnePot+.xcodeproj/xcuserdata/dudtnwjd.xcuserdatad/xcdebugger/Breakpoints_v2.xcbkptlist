@@ -136,59 +136,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "OnePot+/TabBarViewControllerViewController.m"
-            timestampString = "466019602.084967"
+            timestampString = "466254479.960907"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "140"
-            endingLineNumber = "140"
-            landmarkName = "-tabBarViewController:viewControllerAtIndex:"
-            landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[TabBarViewControllerViewController tabBarViewController:viewControllerAtIndex:]"
-                  moduleName = "OnePot+"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/TabBarViewControllerViewController.m"
-                  timestampString = "466004839.369034"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "142"
-                  endingLineNumber = "142"
-                  offsetFromSymbolStart = "201">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__81-[TabBarViewControllerViewController tabBarViewController:viewControllerAtIndex:]_block_invoke_2"
-                  moduleName = "OnePot+"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/TabBarViewControllerViewController.m"
-                  timestampString = "466004839.369223"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "144"
-                  endingLineNumber = "144"
-                  offsetFromSymbolStart = "12">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "OnePot+/TabBarViewControllerViewController.m"
-            timestampString = "466004417.727665"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "69"
-            endingLineNumber = "69"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
             landmarkName = "@implementation TabBarViewControllerViewController"
             landmarkType = "3">
          </BreakpointContent>
@@ -200,11 +152,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "OnePot+/TabBarViewControllerViewController.m"
-            timestampString = "466004420.447566"
+            timestampString = "466254479.960907"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "66"
-            endingLineNumber = "66"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
             landmarkName = "@implementation TabBarViewControllerViewController"
             landmarkType = "3">
          </BreakpointContent>
@@ -248,61 +200,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "OnePot+/TabBarViewControllerViewController.m"
-            timestampString = "466019602.084967"
+            timestampString = "466254479.960907"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "125"
-            endingLineNumber = "125"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
             landmarkName = "-tabBarViewController:viewControllerAtIndex:"
             landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "OnePot+/TabBarViewControllerViewController.m"
-            timestampString = "466019602.084967"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "141"
-            endingLineNumber = "141"
-            landmarkName = "-tabBarViewController:viewControllerAtIndex:"
-            landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[TabBarViewControllerViewController tabBarViewController:viewControllerAtIndex:]"
-                  moduleName = "OnePot+"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/TabBarViewControllerViewController.m"
-                  timestampString = "466005777.189514"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "142"
-                  endingLineNumber = "142"
-                  offsetFromSymbolStart = "201">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__81-[TabBarViewControllerViewController tabBarViewController:viewControllerAtIndex:]_block_invoke_2"
-                  moduleName = "OnePot+"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/TabBarViewControllerViewController.m"
-                  timestampString = "466005777.189712"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "144"
-                  endingLineNumber = "144"
-                  offsetFromSymbolStart = "12">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

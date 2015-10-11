@@ -39,12 +39,12 @@
 - (void)viewDidLoad {
   [super viewDidLoad];
     // Initialize table data
-    titleData = [NSArray arrayWithObjects:@"Vegitable Mixed Rice", @"Beef Steak", @"Potato Pie", @"Hamburger", @"Ham and Egg Sandwich", @"Creme Brelee", @"White Chocolate Donut", @"Starbucks Coffee", @"Vegetable Curry", @"Instant Noodle with Egg", @"Noodle with BBQ Pork", @"Japanese Noodle with Pork", @"Green Tea", @"Thai Shrimp Cake", @"Angry Birds Cake", @"Ham and Cheese Panini", nil];
+    titleData = [NSArray arrayWithObjects:@"Shrimp,Leak Pasta", @"Beef Steak", @"Potato Pie", @"Hamburger", @"Ham and Egg Sandwich", @"Creme Brelee", @"White Chocolate Donut", @"Starbucks Coffee", @"Vegetable Curry", @"Instant Noodle with Egg", @"Noodle with BBQ Pork", @"Japanese Noodle with Pork", @"Green Tea", @"Thai Shrimp Cake", @"Angry Birds Cake", @"Ham and Cheese Panini", nil];
   // Do any additional setup after loading the view from its nib.
     subtitleData = [NSArray arrayWithObjects:@"My normal breakfast", @"For Today lunch", @"With your girlfriend", @"when you are hungry", @"daily desert", @"sweet desert", @"with americano", @"starbucks coffee beans", @"healthy food", @"I love noodle", @"Delicious Noodle", @"Sometimes I drink", @"My mother's favorite", @"For my girlfriend", @"for my love", @"normal breakfast", nil];
 
-    thumbnailImage = [NSArray arrayWithObjects:@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", nil];
-    profileImage = [NSArray arrayWithObjects: @"userprofile1", @"userprofile2", @"userprofile3", @"userprofile4", @"userprofile5", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1",@"userprofile1", nil];
+    thumbnailImage = [NSArray arrayWithObjects:@"ShrimpLeek", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", nil];
+    profileImage = [NSArray arrayWithObjects: @"Profile", @"userprofile2", @"userprofile3", @"userprofile4", @"userprofile5", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1", @"userprofile1",@"userprofile1", nil];
 
 
 }
@@ -97,7 +97,7 @@
 {
     
     NSString *selected =[titleData objectAtIndex:indexPath.row];
-    if ([selected isEqualToString:@"Vegitable Mixed Rice"]) {
+    if ([selected isEqualToString:@"Shrimp,Leak Pasta"]) {
         DetailViewController *v = [[DetailViewController alloc] init];
         [[SlideNavigationController sharedInstance] pushViewController:v animated:YES];
     }

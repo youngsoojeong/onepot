@@ -23,12 +23,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Initialize table data
-    titleData = [NSArray arrayWithObjects:@"Angry Birds Cake", @"Beef Steak", @"Potato Pie", @"Creme Brelee", @"White Chocolate Donut", @"Vegetable Curry", @"Noodle with BBQ Pork", @"Green Tea", @"Thai Shrimp Cake", @"Vegitable Mixed Rice", nil];
+    titleData = [NSArray arrayWithObjects:@"Mixed Seafood Fried Rice", @"Vegetable Curry", @"Beef Steak", @"Potato Pie", @"Creme Brelee", @"White Chocolate Donut", @"Korean Chicken Soup", @"Fried Rice", @"Thai Rice Cake", nil];
     // Do any additional setup after loading the view from its nib.
-    subtitleData = [NSArray arrayWithObjects:@"My normal breakfast", @"For Today lunch", @"With your girlfriend", @"sweet desert", @"with americano", @"healthy food", @"Sometimes I drink", @"My mother's favorite", @"For my girlfriend",@"my favorite Rice", nil];
+    subtitleData = [NSArray arrayWithObjects:@"My normal breakfast", @"For Today lunch", @"With your girlfriend", @"sweet desert", @"with americano", @"healthy food", @"Sometimes I drink", @"My mother's favorite", @"For my girlfriend", nil];
     
-    thumbnailImage = [NSArray arrayWithObjects:@"Angry", @"foodthumb2", @"foodthumb3",@"CremeBrelee", @"WhiteChocolateDonut",@"VegetableCurry", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb3",@"foodthumb1", @"foodthumb2", @"foodthumb1", nil];
-    profileImage = [NSArray arrayWithObjects: @"Profile", @"pro14", @"pro15", @"userprofile4", @"pro17", @"pro13", @"pro12", @"pro11", @"pro18", @"userprofile1", nil];
+    thumbnailImage = [NSArray arrayWithObjects:@"Rice1",@"VegetableCurry", @"foodthumb2", @"foodthumb3",@"CremeBrelee", @"WhiteChocolateDonut", @"Rice3",@"Rice2", @"Rice4", nil];
+    profileImage = [NSArray arrayWithObjects: @"pro11", @"pro14", @"pro15", @"userprofile4", @"pro17", @"pro13", @"pro12", @"pro11", @"pro18", nil];
     
     
 }

@@ -960,7 +960,7 @@
         <image name="grayline" width="375" height="2"/>
         <image name="lineOrage" width="28" height="2"/>
         <image name="moduleIcon" width="14" height="14"/>
-        <image name="orageBG" width="414" height="71"/>
+        <image name="orageBG" width="414" height="72"/>
         <image name="pinterest" width="24" height="24"/>
         <image name="shareIcon" width="14" height="14"/>
         <image name="tempIcon" width="14" height="14"/>

@@ -25,6 +25,8 @@
 #import "TabContentViewController.h"
 #import "SearchViewController.h"
 #import "TabContents2ViewController.h"
+#import "TabContents3ViewController.h"
+#import "TabContents4ViewController.h"
 
 @interface TabBarViewControllerViewController () <
     MDTabBarViewControllerDelegate>
@@ -133,12 +135,34 @@
             
         });
         return controller;
-    }else{
+    }else if(index==1){
         
         
         TabContents2ViewController *controller =
         
         [[TabContents2ViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
+            
+        });
+        
+        /* Library code */
+        //self.shyNavBarManager.scrollView = controller.tableView;
+        return controller;
+    }else if(index==2){
+        
+        
+        TabContents3ViewController *controller =
+        
+        [[TabContents3ViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
+            
+        });
+        
+        /* Library code */
+        //self.shyNavBarManager.scrollView = controller.tableView;
+        return controller;
+    }else{
+        TabContents4ViewController *controller =
+        
+        [[TabContents4ViewController alloc] init];    dispatch_async(dispatch_get_main_queue(), ^{
             
         });
         
