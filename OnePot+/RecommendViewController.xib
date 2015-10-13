@@ -996,7 +996,7 @@ Noodles</string>
                                         <constraint firstAttribute="width" constant="92" id="DbK-qr-mD8"/>
                                     </constraints>
                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                     <nil key="highlightedColor"/>
                                     <variation key="default">
                                         <mask key="constraints">
@@ -1019,7 +1019,7 @@ Noodles</string>
                                         <constraint firstAttribute="height" constant="34" id="Kus-ob-THt"/>
                                     </constraints>
                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                     <nil key="highlightedColor"/>
                                     <variation key="default">
                                         <mask key="constraints">
@@ -1042,7 +1042,7 @@ Noodles</string>
                                         <constraint firstAttribute="width" constant="95" id="tgF-sR-JTR"/>
                                     </constraints>
                                     <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                     <nil key="highlightedColor"/>
                                     <variation key="default">
                                         <mask key="constraints">
@@ -1250,8 +1250,7 @@ Noodles</string>
                                             <exclude reference="dYV-4U-wP8"/>
                                         </mask>
                                     </variation>
-                                    <variation key="heightClass=regular-widthClass=compact" misplaced="YES">
-                                        <rect key="frame" x="16" y="1092" width="140" height="21"/>
+                                    <variation key="heightClass=regular-widthClass=compact">
                                         <mask key="constraints">
                                             <include reference="LKP-Yo-ere"/>
                                             <include reference="dYV-4U-wP8"/>
@@ -1298,8 +1297,7 @@ Noodles</string>
                                             <exclude reference="lFI-0m-OgZ"/>
                                         </mask>
                                     </variation>
-                                    <variation key="heightClass=regular-widthClass=compact" misplaced="YES">
-                                        <rect key="frame" x="388" y="1099" width="10" height="7"/>
+                                    <variation key="heightClass=regular-widthClass=compact">
                                         <mask key="constraints">
                                             <include reference="8gx-4e-WFS"/>
                                             <include reference="lFI-0m-OgZ"/>
@@ -1354,8 +1352,7 @@ Noodles</string>
                                             <exclude reference="i3V-yf-vM5"/>
                                         </mask>
                                     </variation>
-                                    <variation key="heightClass=regular-widthClass=compact" misplaced="YES">
-                                        <rect key="frame" x="16" y="1165" width="103" height="30"/>
+                                    <variation key="heightClass=regular-widthClass=compact">
                                         <mask key="constraints">
                                             <include reference="ZwI-9o-RuR"/>
                                             <include reference="i3V-yf-vM5"/>
@@ -1370,7 +1367,7 @@ Noodles</string>
                                         <constraint firstAttribute="width" constant="381" id="vbP-LI-KjT"/>
                                     </constraints>
                                     <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                     <nil key="highlightedColor"/>
                                     <variation key="default">
                                         <mask key="constraints">
@@ -1480,7 +1477,7 @@ Noodles</string>
                                     <string key="text">Want yo Cut Down on JunkFood?
 10 Easy Ways to Improve Your Diet.</string>
                                     <fontDescription key="fontDescription" type="system" pointSize="18"/>
-                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                     <nil key="highlightedColor"/>
                                     <variation key="default">
                                         <mask key="constraints">
@@ -1564,7 +1561,7 @@ Noodles</string>
                                         <constraint firstAttribute="width" constant="381" id="xCq-F0-25L"/>
                                     </constraints>
                                     <fontDescription key="fontDescription" type="system" pointSize="18"/>
-                                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                     <nil key="highlightedColor"/>
                                     <variation key="default">
                                         <mask key="constraints">

@@ -232,12 +232,12 @@
                   moduleName = "OnePot+"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/LeftMenuViewController.m"
-                  timestampString = "466006382.362989"
+                  timestampString = "466431136.312446"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "73"
-                  endingLineNumber = "73"
-                  offsetFromSymbolStart = "42">
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "60">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -247,11 +247,11 @@
                   moduleName = "OnePot+"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/LeftMenuViewController.m"
-                  timestampString = "466006382.363157"
+                  timestampString = "466431136.312682"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "75"
-                  endingLineNumber = "75"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
                   offsetFromSymbolStart = "12">
                </Location>
             </Locations>
@@ -280,12 +280,12 @@
                   moduleName = "OnePot+"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/LeftMenuViewController.m"
-                  timestampString = "466006382.370081"
+                  timestampString = "466431136.313859"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "62"
-                  endingLineNumber = "62"
-                  offsetFromSymbolStart = "42">
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "60">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -295,14 +295,30 @@
                   moduleName = "OnePot+"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/dudtnwjd/onepot-ios/OnePot+/LeftMenuViewController.m"
-                  timestampString = "466006382.370299"
+                  timestampString = "466431136.314105"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "64"
-                  endingLineNumber = "64"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
                   offsetFromSymbolStart = "12">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnePot+/RecommendViewController.m"
+            timestampString = "466430033.485359"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "@interface RecommendViewController()"
+            landmarkType = "2">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
